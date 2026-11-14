@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_desc">拦截对“学习守卫”的卸载与停用操作，需要家长密码才能继续。</string>
+</resources>

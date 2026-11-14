@@ -1,0 +1,601 @@
+# 格式: 科目|题干|A|B|C|D|正确序号0-3|解析
+数学|计算 -3+5-(-2) 的结果是|0|-4|4|10|2|-3+5+2=4。
+数学|计算 (-2)^3×(-1/4) 的结果是|2|1/2|-2|-1/2|0|(-2)^3=-8，(-8)×(-1/4)=2。
+数学|计算 -7 的绝对值减去 (-3)^2 的结果是|16|-2|2|-16|1|-7的绝对值是7，(-3)^2=9，7-9=-2。
+数学|计算 (-1/2)^(-2)-2^0 的结果是|3|5|-3|1|0|(-1/2)^(-2)=4，2^0=1，4-1=3。
+数学|计算 -2^2+(-3)^2 的结果是|5|-5|13|-13|0|-2^2=-4，(-3)^2=9，-4+9=5。
+数学|计算 (-3/4)÷(9/8) 的结果是|-3/2|-2/3|2/3|-27/32|1|原式=(-3/4)×(8/9)=-2/3。
+数学|计算 3.6×10^5-2.8×10^4 的结果是|3.32×10^4|3.32×10^6|8.0×10^4|3.32×10^5|3|3.6×10^5-0.28×10^5=3.32×10^5。
+数学|计算 (-1)^2026+(-1)^2025 的结果是|1|2|-2|0|3|(-1)^2026=1，(-1)^2025=-1，1+(-1)=0。
+数学|计算 2^3÷(-4)×(1/2) 的结果是|-1|-4|1|4|0|2^3÷(-4)=-2，-2×1/2=-1。
+数学|计算 -3^2-2×(-3) 的结果是|15|-15|-3|3|2|-3^2=-9，-2×(-3)=6，-9+6=-3。
+数学|化简 3a^2-2a+4a^2+a 的结果是|7a^2-a|7a^2+a|7a^4-a|7a^2-3a|0|合并同类项得(3+4)a^2+(-2+1)a=7a^2-a。
+数学|计算 (2x^3y)^2÷(4xy) 的结果是|x^5y|2x^5y|x^4y|x^5y^2|0|分子为4x^6y^2，除以4xy得x^5y。
+数学|因式分解 x^3-4x 的结果是|x(x+4)(x-4)|x(x-2)^2|x(x+2)(x-2)|x(x^2-4)|2|先提公因式x，再用平方差公式得x(x+2)(x-2)。
+数学|因式分解 2x^2-8x+8 的结果是|(2x-4)^2|2(x-2)^2|2(x+2)^2|2(x-4)^2|1|原式=2(x^2-4x+4)=2(x-2)^2。
+数学|因式分解 a^2-b^2+a-b 的结果是|(a-b)(a-b+1)|(a+b)(a-b+1)|(a-b)(a+b+1)|(a-b)(a+b-1)|2|前两项平方差得(a-b)(a+b)，再提公因式(a-b)。
+数学|化简 (x+3)^2-(x+2)(x-2) 的结果是|6x+9|6x+13|6x+5|6x-5|1|展开得x^2+6x+9-(x^2-4)=6x+13。
+数学|若 a+b=5，ab=3，则 a^2+b^2 的值是|25|19|16|22|1|(a+b)^2-2ab=25-6=19。
+数学|若 (x-y)^2=16，xy=3，则 x^2+y^2 的值是|22|13|10|19|0|(x-y)^2+2xy=16+6=22。
+数学|计算 (6x^3-4x^2+2x)÷(2x) 的结果是|3x^2-2x|3x^2+2x+1|3x^2-2x+1|3x^2-4x+1|2|逐项除以2x得3x^2-2x+1。
+数学|因式分解 x^2+5x-14 的结果是|(x+7)(x-2)|(x+7)(x+2)|(x-7)(x-2)|(x-7)(x+2)|0|寻找积为-14、和为5的两数7和-2，得(x+7)(x-2)。
+数学|因式分解 3x^2-12 的结果是|3(x+2)(x-2)|(3x+2)(x-2)|3(x^2-4)|3(x-2)^2|0|先提公因式3，再用平方差公式得3(x+2)(x-2)。
+数学|若 x^2-5x+1=0，则 x^2+1/x^2 的值是|25|21|23|27|2|由x≠0得x+1/x=5，所以x^2+1/x^2=(x+1/x)^2-2=23。
+数学|化简 (x^2-9)/(x-3)（x≠3）的结果是|3-x|x^2+3|x+3|x-3|2|分子分解为(x+3)(x-3)，约去x-3得x+3。
+数学|化简 1/(x-1)-1/(x+1) 的结果是|2/(x^2-1)|2x/(x^2-1)|-2/(x^2-1)|2/(x^2+1)|0|通分得[(x+1)-(x-1)]/[(x-1)(x+1)]=2/(x^2-1)。
+数学|化简 x/(x-2)+2/(2-x) 的结果是|(x-2)/(x+2)|1|(x+2)/(x-2)|-1|1|2/(2-x)=-2/(x-2)，合并得(x-2)/(x-2)=1。
+数学|解方程 3/(x-2)=2/x，方程的解是|-4|4|1|-1|0|去分母得3x=2x-4，解得x=-4，且x≠0、2。
+数学|若 a/b=2/3，则 (a+b)/b 的值是|2/3|3/5|5/2|5/3|3|(a+b)/b=a/b+1=2/3+1=5/3。
+数学|化简 (x^2-4)/(x^2-4x+4)（x≠2）的结果是|(x+2)/(x-2)|x-2|x+2|(x-2)/(x+2)|0|分子为(x+2)(x-2)，分母为(x-2)^2，约分得(x+2)/(x-2)。
+数学|若 x+1/x=3，则 x/(x^2+1) 的值是|1/2|1/3|2/3|3|1|x/(x^2+1)=1/(x+1/x)=1/3。
+数学|解方程 2/(x-1)=3/(x+1)，方程的解是|1|2|5|-5|2|去分母得2x+2=3x-3，解得x=5，且x≠±1。
+数学|化简 (a^2-2a+1)/(a-1)（a≠1）的结果是|a+1|(a-1)^2|a-1|1-a|2|分子为(a-1)^2，约去a-1得a-1。
+数学|若 a+b=4，ab=3，则 1/a+1/b 的值是|12/7|4/3|3/4|7/12|1|1/a+1/b=(a+b)/(ab)=4/3。
+数学|解方程 3(x-2)=2x+5，方程的解是|7|11|1|-11|1|去括号得3x-6=2x+5，移项得x=11。
+数学|解方程 (x+1)/2-(2x-1)/3=1，方程的解是|1|-5|-1|5|2|去分母得3(x+1)-2(2x-1)=6，解得x=-1。
+数学|若 x-2 的绝对值为 3，则所有满足条件的x的值之和是|4|-4|5|2|0|x-2=3或x-2=-3，得x=5或x=-1，和为4。
+数学|若关于x的方程 (m-2)x^(m^2-3)+3=0 是一元一次方程，则m的值是|-2|1|2|±2|0|由m^2-3=1得m=±2，又m-2≠0，所以m=-2。
+数学|若 x=1 是方程 2x+a=3x-2 的解，则a的值是|3|5|-1|1|2|代入得2+a=1，所以a=-1。
+数学|解方程组 x+y=7，x-y=3，则xy的值是|12|7|10|21|2|两式相加得x=5，相减得y=2，所以xy=10。
+数学|解方程组 2x+3y=12，x-3y=-3，则x+y的值是|3|5|7|2|1|两式相加得3x=9，x=3，代入得y=2，所以x+y=5。
+数学|解方程组 3x+2y=16，2x+y=9，则x-y的值是|7|-3|3|-7|1|由第二式得y=9-2x，代入得x=2，y=5，所以x-y=-3。
+数学|解方程组 2x+3y=7，3x-2y=4，则x-y的值是|1|3|5|-1|0|消元得x=2，y=1，所以x-y=1。
+数学|解方程组 3x-y=5，2x+3y=7，则x^2+y^2的值是|1|25|5|13|2|由第一式得y=3x-5，代入得x=2，y=1，所以x^2+y^2=5。
+数学|方程 x^2-5x+6=0 的两个实数根的平方和是|13|6|11|5|0|两根为2和3，所以2^2+3^2=13。
+数学|方程 2x^2-4x-6=0 的两根之和是|-2|-4|2|4|2|两边除以2得x^2-2x-3=0，由韦达定理两根之和为2。
+数学|若α、β是方程 x^2-4x+1=0 的两个根，则α^2+β^2的值是|14|15|18|16|0|α+β=4，αβ=1，所以α^2+β^2=16-2=14。
+数学|若 x=2 是方程 x^2+mx-6=0 的一个根，则m的值是|2|5|1|-1|2|代入得4+2m-6=0，解得m=1。
+数学|方程 x^2-2x-3=0 的较大的根是|3|2|-1|1|0|因式分解得(x-3)(x+1)=0，较大的根为3。
+数学|方程 (x-3)^2=2(x-3) 的两根之和是|3|5|2|8|3|移项得(x-3)(x-5)=0，两根为3和5，和为8。
+数学|若关于x的方程 x^2-6x+m=0 有两个相等的实数根，则m的值是|6|3|9|-9|2|判别式Δ=36-4m=0，解得m=9。
+数学|以-2和5为两根的一元二次方程是|x^2-3x+10=0|x^2+3x-10=0|x^2-3x-10=0|x^2+3x+10=0|2|两根和为3，积为-10，所以方程为x^2-3x-10=0。
+数学|解分式方程 x/(x-3)=2，方程的解是|2|3|-6|6|3|去分母得x=2(x-3)，解得x=6，且x≠3。
+数学|解分式方程 (x+1)/x=3/2，方程的解是|2|3|1/2|-2|0|交叉相乘得2x+2=3x，解得x=2，且x≠0。
+数学|解分式方程 1/(x-1)-2/(x+1)=0，方程的解是|3|-3|1|-1|0|移项后交叉相乘得x+1=2x-2，解得x=3，且x≠±1。
+数学|解分式方程 2x/(x-1)-1=3/(x-1)，方程的解是|2|1|3|-2|0|去分母得2x-(x-1)=3，解得x=2，且x≠1。
+数学|不等式 2x-5<3x+1 的解集是|x<-6|x>6|x<6|x>-6|3|移项得-x<6，两边除以-1得x>-6。
+数学|不等式 (x-1)/2≥(2x+1)/3-1 的解集是|x≤1|x≥1|x≤-1|x≥-1|0|去分母得3x-3≥4x-4，解得x≤1。
+数学|不等式 3x-2≤7 的正整数解的个数是|3|4|1|2|0|解得x≤3，正整数解为1、2、3，共3个。
+数学|不等式组 x-1>0，2x-6≤0 的整数解的和是|4|3|6|5|3|解集为1<x≤3，整数解为2、3，和为5。
+数学|若 a>b，则下列不等式一定成立的是|-2a<-2b|a+1<b+1|a-2<b-2|a^2>b^2|0|不等式两边同乘-2，不等号方向改变，得-2a<-2b。
+数学|不等式 x^2-5x+6<0 的解集是|2<x<3|x<2或x>3|x<3|2≤x≤3|0|因式分解得(x-2)(x-3)<0，所以2<x<3。
+数学|使 2x-1 的绝对值不超过 3 成立的整数x的个数是|4|2|5|3|0|由-3≤2x-1≤3解得-1≤x≤2，整数为-1、0、1、2，共4个。
+数学|使不等式 (x+1)/3<2 成立的最大整数x是|5|6|4|3|2|解得x<5，所以最大整数为4。
+数学|不等式 3(x-2)>2x-1 的解集是|x>5|x>1|x<5|x<1|0|去括号得3x-6>2x-1，解得x>5。
+数学|若关于x的不等式 (a-2)x>a-2 的解集是 x<1，则a的取值范围是|a<2|a=2|a>2|a≤2|0|不等号方向改变，说明a-2<0，所以a<2。
+数学|一次函数 y=2x+b 的图象经过点(1,3)，当x=4时y的值是|5|9|7|11|1|由3=2+b得b=1，所以y=2×4+1=9。
+数学|一次函数 y=-2x+3 的图象与x轴的交点坐标是|(-3/2,0)|(0,3)|(3,0)|(3/2,0)|3|令y=0得-2x+3=0，解得x=3/2，交点为(3/2,0)。
+数学|与直线 y=3x-1 平行且经过点(0,2)的一次函数是|y=-3x+2|y=3x-2|y=2x+3|y=3x+2|3|平行则k=3，过(0,2)得b=2，所以y=3x+2。
+数学|一次函数 y=kx+b 的图象经过(2,1)和(-1,-5)，则b的值是|-3|3|-2|2|0|由2k+b=1，-k+b=-5解得k=2，b=-3。
+数学|直线 y=2x-4 与 y=-x+5 的交点坐标中，x+y的值是|1|7|5|3|2|联立得2x-4=-x+5，x=3，y=2，所以x+y=5。
+数学|若点(m,2)在一次函数 y=3x-1 的图象上，则m的值是|1/3|-1|1|3|2|代入得2=3m-1，解得m=1。
+数学|一次函数 y=kx+3 的函数值y随x的增大而减小，且图象经过第一象限，则k的取值范围是|k<3|k<0|k>0|k=0|1|y随x增大而减小说明k<0，且b=3>0保证图象经过第一象限。
+数学|直线 y=ax+b 经过第一、二、四象限，则a、b的符号是|a<0，b>0|a<0，b<0|a>0，b>0|a>0，b<0|0|直线下降说明a<0，与y轴交于正半轴说明b>0。
+数学|反比例函数 y=k/x 的图象经过点(2,3)，当x=-1时y的值是|6|-6|3|-3|1|k=2×3=6，所以x=-1时y=-6。
+数学|若点(a,2)在反比例函数 y=-6/x 的图象上，则a的值是|12|-12|-3|3|2|由2=-6/a得a=-3。
+数学|反比例函数 y=4/x，当x>2时，y的取值范围是|0<y<4|y<2|0<y<2|y>2|2|x>2时y=4/x随x增大而减小，且y>0，所以0<y<2。
+数学|矩形面积为12，长为x，宽为y，则y关于x的函数关系式是|y=x/12|y=12-x|y=12/x（x>0）|y=12x|2|由xy=12得y=12/x，且x>0。
+数学|若反比例函数 y=(k-1)/x 的图象位于第二、四象限，则k的取值范围是|k<1|k>1|k>0|k<0|0|图象在第二、四象限说明k-1<0，所以k<1。
+数学|若点A(a,b)在反比例函数 y=6/x 的图象上，则ab的值是|1/6|3|6|-6|2|由b=6/a得ab=6。
+数学|反比例函数 y=2/x，当x<-1时，y的取值范围是|y>0|y<-2|0<y<2|-2<y<0|3|x=-1时y=-2，x<-1时y随x增大而减小且为负，所以-2<y<0。
+数学|若反比例函数 y=(2m-1)/x 在每个象限内y随x的增大而减小，则m的取值范围是|m>2|m<2|m>1/2|m<1/2|2|每个象限内y随x增大而减小说明2m-1>0，所以m>1/2。
+数学|抛物线 y=x^2-4x+3 的顶点坐标是|(-2,-1)|(2,7)|(2,1)|(2,-1)|3|配方得y=(x-2)^2-1，顶点为(2,-1)。
+数学|二次函数 y=-2(x+1)^2+3 的最大值是|2|-2|3|-1|2|开口向下，顶点纵坐标3就是最大值。
+数学|抛物线 y=x^2-2x-3 与x轴两个交点之间的距离是|3|2|4|6|2|令y=0得x=-1或3，距离为4。
+数学|将抛物线 y=x^2 先向右平移2个单位，再向上平移1个单位，所得抛物线的解析式是|y=(x+2)^2+1|y=(x-2)^2-1|y=(x+2)^2-1|y=(x-2)^2+1|3|右移2得(x-2)^2，上移1加1，所以y=(x-2)^2+1。
+数学|抛物线 y=ax^2+bx+c 开口向下，对称轴为直线x=1，且与y轴交于正半轴，则a、b、c的符号是|a>0，b>0，c<0|a<0，b>0，c<0|a<0，b>0，c>0|a<0，b<0，c>0|2|开口向下a<0，由-b/(2a)=1得b=-2a>0，与y轴正半轴相交c>0。
+数学|若二次函数 y=x^2+2x+m 的图象与x轴有两个不同的交点，则m的取值范围是|m>1|m≤1|m≥1|m<1|3|判别式Δ=4-4m>0，解得m<1。
+数学|二次函数 y=x^2-6x+5 在0≤x≤4时y的取值范围是|-4≤y≤5|-4≤y≤-3|1≤y≤5|-3≤y≤5|0|顶点x=3处y=-4，端点x=0处y=5、x=4处y=-3，所以-4≤y≤5。
+数学|某炮弹发射后 t 秒时的高度 h=-5t^2+20t（米），其最大高度是|20米|4米|10米|40米|0|配方得h=-5(t-2)^2+20，所以当t=2秒时达到最大高度20米。
+数学|若抛物线经过点(1,0)和(3,0)，则它的对称轴是|直线x=1|直线x=3|直线x=2|直线x=-2|2|对称轴是两交点横坐标的中点，x=(1+3)/2=2。
+数学|抛物线 y=x^2-2x+3 与直线 y=3 的两个交点之间的距离是|2|1|4|3|0|令x^2-2x+3=3得x=0或2，距离为2。
+数学|直线 y=x+1 与抛物线 y=x^2-1 的两个交点之间的距离是|3|3√2|6|2√2|1|联立得x=2或-1，交点为(2,3)、(-1,0)，距离为3√2。
+数学|抛物线 y=-x^2+2x+3 与x轴交于A、B两点，与y轴交于C点，则△ABC的面积是|12|3|9|6|3|A(-1,0)、B(3,0)、C(0,3)，底AB=4，高3，面积为6。
+数学|若二次函数 y=x^2-2x+m 的最小值为3，则m的值是|5|3|1|4|3|配方得y=(x-1)^2+m-1，最小值为m-1=3，所以m=4。
+数学|二次函数 y=ax^2+bx+c 的图象经过(0,0)、(1,0)、(2,2)，当x=3时y的值是|9|12|6|3|2|由c=0、a+b=0、4a+2b=2得a=1、b=-1，所以x=3时y=6。
+数学|抛物线 y=ax^2+bx+c 与x轴交于(-2,0)、(1,0)，且经过(0,-4)，则a的值是|1/2|2|-1/2|-2|1|由c/a=-2且c=-4，得a=2。
+数学|若二次函数 y=x^2-2mx+3 在x≥1时y随x的增大而增大，则m的取值范围是|m>1|m≥1|m<1|m≤1|3|对称轴为x=m，增区间为[m,+∞)，所以m≤1。
+数学|三角形两边长分别为3和4，第三边长x为整数，则x可能取值的个数是|5|3|4|6|0|由1<x<7得整数2、3、4、5、6，共5个。
+数学|等腰三角形两边长分别为3和7，则它的周长是|10|17或13|17|13|2|腰只能为7，三边为7、7、3，周长为17。
+数学|三角形三个内角的度数之比为2:3:4，则最大内角的度数是|80°|90°|60°|72°|0|最大角为180°×4/9=80°。
+数学|三角形的一个外角为120°，与它不相邻的两个内角度数之比为1:2，则较小的内角是|30°|80°|60°|40°|3|两内角之和为120°，较小角为120°×1/3=40°。
+数学|直角三角形两条直角边长分别为5和12，则它的面积是|156|30|60|65|1|面积=1/2×5×12=30。
+数学|下列条件中，不能判定两个三角形全等的是|SAS|ASA|SSS|SSA|3|两边及其中一边的对角对应相等不能判定全等，即SSA不成立。
+数学|在△ABC中，AB=AC，D为BC的中点，则下列结论不一定成立的是|AD=BC|BD=CD|∠BAD=∠CAD|AD⊥BC|0|等腰三角形三线合一可得其余三项，但AD不一定等于BC。
+数学|在△ABC中，DE∥BC，D、E分别在AB、AC上，AD:DB=2:3，DE=4，则BC的长是|8|6|12|10|3|AD:AB=2:5，由相似得BC=DE×5/2=10。
+数学|两个相似三角形的相似比为2:3，则它们的面积比是|4:9|2:3|3:2|8:27|0|相似三角形面积比等于相似比的平方，即4:9。
+数学|Rt△ABC中，∠C=90°，AC=6，BC=8，CD⊥AB于点D，则CD的长是|5|4.8|4|2.4|1|AB=10，由面积法6×8=10×CD得CD=4.8。
+数学|在△ABC中，DE∥BC，D、E分别在AB、AC上，若S△ADE:S四边形DBCE=1:3，则AD:DB等于|1:2|2:1|1:1|1:3|2|S△ADE:S△ABC=1:4，相似比为1:2，所以AD:DB=1:1。
+数学|同一时刻，身高1.5m的小明影长为2m，一座楼的影长为24m，则楼高是|36m|18m|20m|16m|1|设楼高h，由h/24=1.5/2得h=18m。
+数学|AB∥CD，AD与BC相交于点O，AO:OD=2:3，AB=4，则CD的长是|6|5|8/3|10/3|0|△AOB∽△DOC，所以AB/CD=AO/OD=2/3，得CD=6。
+数学|连接三角形三边中点所得三角形的周长为12，则原三角形的周长是|12|48|6|24|3|中点三角形各边为原三角形对应边的一半，所以原周长为24。
+数学|在△ABC中，D、E分别是AB、AC的中点，DE=5，S△ADE=6，则S△ABC等于|12|18|24|30|2|DE为中位线，相似比为1:2，面积比为1:4，所以S△ABC=24。
+数学|等腰直角三角形的斜边长为8，则它的面积是|16√2|8|16|32|2|两直角边均为4√2，面积=1/2×(4√2)^2=16。
+数学|在直角三角形中，30°角所对的直角边长为3，则它的周长是|12|9+3√3|6+3√3|9+√3|1|斜边为6，另一直角边为3√3，周长为9+3√3。
+数学|一架长13m的梯子斜靠在墙上，梯子底端离墙5m，则梯子顶端离地面的高度是|√194m|13m|12m|8m|2|由勾股定理得高度为√(13^2-5^2)=12m。
+数学|在Rt△ABC中，∠C=90°，AC=6，BC=8，AD平分∠BAC交BC于D，则CD的长是|2.5|4|8/3|3|3|AB=10，由角平分线定理BD:CD=AB:AC=5:3，所以CD=8×3/8=3。
+数学|等边三角形的边长为4，则它的面积是|8√3|16√3|2√3|4√3|3|高为2√3，面积=1/2×4×2√3=4√3。
+数学|在△ABC中，AB=AC=5，BC=6，AD是BC边上的中线，则△ABC的面积是|24|12|15|6|1|AD⊥BC且BD=3，AD=4，面积=1/2×6×4=12。
+数学|在△ABC中，∠B=45°，∠C=60°，BC=6，则AB的长是|3√6|9√2-3√6|9√2+3√6|6√2|1|作AD⊥BC，设AD=h，则h+h/√3=6，h=9-3√3，AB=h√2=9√2-3√6。
+数学|已知A(-1,2)、B(3,2)、C(1,5)，则△ABC的面积是|12|3|6|8|2|AB=4，C到AB的距离为3，面积=1/2×4×3=6。
+数学|在平面直角坐标系中，A(1,1)、B(4,3)，点P在x轴上，则PA+PB的最小值是|√13|4|6|5|3|作A关于x轴的对称点A'(1,-1)，最小值为A'B=√(3^2+4^2)=5。
+数学|矩形ABCD中，AB=6，BC=4，点P在边BC上，则△APD的面积是|24|12|随点P位置变化|6|1|△APD以AD=4为底，高等于AB=6，面积为12，与P无关。
+数学|在△ABC中，点D在AB上，∠ACD=∠B，AC=4，AD=2，则AB的长是|10|4|6|8|3|△ACD∽△ABC，所以AC/AB=AD/AC，即4/AB=2/4，得AB=8。
+数学|平行四边形相邻两个内角的度数之比为2:3，则较小的内角是|72°|60°|90°|108°|0|相邻内角互补，较小角为180°×2/5=72°。
+数学|平行四边形的两条对角线长分别为6和8，且互相垂直，则它的面积是|24|12|48|不能确定|0|对角线互相垂直的四边形面积等于对角线乘积的一半，即1/2×6×8=24。
+数学|矩形的一条对角线长为10，一边长为6，则它的面积是|48|80|60|24|0|另一边为√(10^2-6^2)=8，面积为6×8=48。
+数学|菱形的两条对角线长分别为6和8，则它的周长是|20|10|40|24|0|半对角线为3和4，边长为5，周长为20。
+数学|正方形的对角线长为6√2，则它的面积是|72|36|18|36√2|1|设边长为a，则a√2=6√2，a=6，面积为36。
+数学|梯形的上底为4，下底为10，高为6，则它的面积是|36|42|30|84|1|面积=1/2×(4+10)×6=42。
+数学|等腰梯形的上底为6，下底为12，腰长为5，则它的面积是|45|30|36|54|2|高为√(5^2-3^2)=4，面积=1/2×(6+12)×4=36。
+数学|一个四边形的面积为20，顺次连接它各边中点所得四边形的面积是|5|10|20|15|1|中点四边形面积为原四边形面积的一半，即10。
+数学|平行四边形ABCD的面积为24，E为AD的中点，则△ABE的面积是|3|12|8|6|3|△ABE与平行四边形同高，底AE为AD的一半，所以面积为24×1/4=6。
+数学|菱形的一个内角为60°，边长为4，则它的面积是|8√3|16√3|16|8|0|较短对角线为4，较长对角线为4√3，面积=1/2×4×4√3=8√3。
+数学|梯形的中位线长为8，高为5，则它的面积是|32|40|20|80|1|梯形面积等于中位线乘高，即8×5=40。
+数学|正方形ABCD的边长为8，点E在AB上，AE=3，则CE的长是|9|√89|√73|√109|1|BE=5，BC=8，所以CE=√(5^2+8^2)=√89。
+数学|已知平行四边形ABCD的顶点A(0,0)、B(4,0)、C(6,3)、D(2,3)，则它的面积是|12|24|6|18|0|底AB=4，高为3，面积为12。
+数学|矩形的周长为28，面积为48，则它的对角线长是|10|12|8|14|0|设两边为a、b，则a+b=14，ab=48，解得6和8，对角线为10。
+数学|四边形的四个内角度数之比为1:2:3:4，则最大内角是|108°|144°|120°|150°|1|最大角为360°×4/10=144°。
+数学|矩形ABCD中，AB=6，BC=8，点E在CD上，将△ADE沿AE折叠，使点D落在对角线AC上的点F处，则DE的长是|3|4|8/3|2|2|折叠得AF=AD=8，EF=DE=x，FC=2，由(6-x)^2=x^2+4解得x=8/3。
+数学|⊙O的半径为5，弦AB的长为8，则圆心O到弦AB的距离是|√41|3|2|4|1|由垂径定理得距离为√(5^2-4^2)=3。
+数学|⊙O中弦AB的长为24，圆心到AB的距离为5，则⊙O的半径是|√119|14|13|12|2|半弦为12，半径为√(12^2+5^2)=13。
+数学|点P到圆心O的距离为10，⊙O的半径为6，则过P所作的切线长为|√136|8|6|4|1|切线长=√(OP^2-r^2)=√(100-36)=8。
+数学|⊙O中，圆心角∠AOB=80°，则同弧AB所对的圆周角∠ACB的度数是|20°|160°|80°|40°|3|同弧所对圆周角等于圆心角的一半，即40°。
+数学|AB是⊙O的直径，点C在⊙O上，AC=6，BC=8，则⊙O的半径是|6|10|4|5|3|直径AB=√(6^2+8^2)=10，半径为5。
+数学|圆内接四边形ABCD中，∠A=70°，则∠C的度数是|70°|140°|90°|110°|3|圆内接四边形对角互补，∠C=180°-70°=110°。
+数学|AB是⊙O的弦，AC切⊙O于A，∠BAC=35°，则弧AB所对的圆周角∠ADB的度数是|145°|55°|35°|70°|2|弦切角等于它所夹弧所对的圆周角，所以∠ADB=35°。
+数学|PA、PB分别切⊙O于A、B，∠APB=60°，PA=6，则⊙O的半径是|6|2√3|2|3√3|1|OP平分∠APB，∠APO=30°，tan30°=OA/PA，所以OA=6×√3/3=2√3。
+数学|半径为6的圆中，60°圆心角所对的弧长是|2π|π|3π|6π|0|弧长=nπr/180=60×π×6/180=2π。
+数学|半径为4的圆中，90°圆心角所对扇形的面积是|16π|4π|8π|2π|1|扇形面积=90/360×π×4^2=4π。
+数学|⊙O的半径为10，两条平行弦的长分别为12和16，且位于圆心同侧，则这两条弦之间的距离是|1|2|14|7|1|两弦到圆心的距离分别为8和6，同侧时距离为8-6=2。
+数学|直角三角形的两条直角边长分别为6和8，则它的外接圆半径是|5|10|4|√10|0|斜边为10，直角三角形外接圆半径为斜边的一半，即5。
+数学|正六边形的边长为4，则它的面积是|16√3|24√3|48|12√3|1|正六边形由6个边长4的等边三角形组成，面积为6×4√3=24√3。
+数学|PA切⊙O于A，PBC是过圆心的割线，PA=6，PB=4，则BC的长是|4|5|9|13|1|由切割线定理PA^2=PB·PC得PC=9，所以BC=PC-PB=5。
+数学|两圆外切，半径分别为3和5，则它们的一条外公切线长是|8|2√15|√55|4√3|1|圆心距为8，外公切线长=√(8^2-(5-3)^2)=√60=2√15。
+数学|△ABC内接于⊙O，∠A=60°，BC=6，则⊙O的半径是|3|2√3|6|3√3|1|由正弦定理BC=2RsinA，得R=6/(2sin60°)=2√3。
+数学|⊙O的半径为6，弦AB所对的圆心角为120°，则△AOB的面积是|18|9√3|18√3|9|1|S=1/2×6×6×sin120°=9√3。
+数学|PA切⊙O于A，OP=10，⊙O的半径为6，则△OAP的面积是|40|48|30|24|3|由勾股定理PA=8，面积=1/2×6×8=24。
+数学|直角三角形的三边长分别为3、4、5，则它的内切圆半径是|2|1.5|0.5|1|3|内切圆半径r=(3+4-5)/2=1。
+数学|AB是⊙O的直径，弦CD⊥AB于E，AB=10，AE=2，则CD的长是|2√21|8|6|4|1|半径5，OE=3，CE=√(5^2-3^2)=4，所以CD=8。
+数学|计算 sin30°+cos60° 的值是|√2|1|1/2|√3/2|1|sin30°=1/2，cos60°=1/2，和为1。
+数学|计算 tan45°-cos30° 的值是|1+√3/2|1/2|1-√3/2|1-√2/2|2|tan45°=1，cos30°=√3/2，所以原式=1-√3/2。
+数学|在Rt△ABC中，∠C=90°，sinA=3/5，BC=6，则AB的长是|10|12|15|8|0|sinA=BC/AB，所以AB=6÷(3/5)=10。
+数学|在Rt△ABC中，∠C=90°，cosA=4/5，则tanA的值是|3/5|4/3|3/4|4/5|2|由cosA=4/5设邻边4、斜边5，则对边3，tanA=3/4。
+数学|在地面上一点测得旗杆顶端的仰角为30°，该点到旗杆底部的水平距离为30m，则旗杆高是|10√3m|15m|30√3m|15√3m|0|旗杆高=30×tan30°=10√3m。
+数学|在Rt△ABC中，∠C=90°，AC=8，tanA=3/4，则BC的长是|10|6|32/3|8|1|tanA=BC/AC，所以BC=8×3/4=6。
+数学|若tanα=2，则(sinα+cosα)/(sinα-cosα)的值是|-3|3|2|1/3|1|分子分母同除以cosα，得(tanα+1)/(tanα-1)=3。
+数学|计算 sin^2 20°+sin^2 70° 的值是|1/2|0|2|1|3|sin70°=cos20°，所以原式=sin^2 20°+cos^2 20°=1。
+数学|等腰三角形的两边长分别为5、5，底边长为6，则底角的余弦值是|4/3|4/5|3/5|3/4|2|作底边上的高，底角邻边为3，斜边为5，余弦为3/5。
+数学|直线 y=√3x+1 与x轴正方向所夹的锐角是|30°|120°|45°|60°|3|直线斜率k=√3，所以倾斜角为60°。
+数学|从高30m的塔顶测得地面一点的俯角为30°，该点到塔底的水平距离是|30√3m|60m|15√3m|30m|0|俯角等于该点看塔顶的仰角，水平距离=30÷tan30°=30√3m。
+数学|某斜坡的坡度 i=1:√3，则它的坡角是|60°|45°|15°|30°|3|坡度等于坡角的正切，tanα=1/√3，所以α=30°。
+数学|数据70、80、85、90、95的平均数是|85|84|83|80|1|(70+80+85+90+95)÷5=84。
+数学|数据2、5、3、7、6、8的中位数是|6|5.25|5.5|5|2|排序后为2、3、5、6、7、8，中间两数5和6的平均数为5.5。
+数学|数据1、2、2、3、3、3、4的众数是|3.5|3|2|2和3|1|3出现3次，出现次数最多，所以众数为3。
+数学|数据2、4、6、8、10的方差是|40|4|8|10|2|平均数为6，方差为[(-4)^2+(-2)^2+0^2+2^2+4^2]÷5=8。
+数学|掷一枚质地均匀的骰子，朝上的点数为偶数的概率是|1/2|2/3|1/6|1/3|0|偶数有2、4、6共3种，概率为3/6=1/2。
+数学|同时抛掷两枚质地均匀的硬币，至少有一枚正面朝上的概率是|1/2|2/3|3/4|1/4|2|所有等可能结果有4种，至少一正有3种，概率为3/4。
+数学|从一副去掉大小王的52张扑克牌中任取一张，取到红桃或K的概率是|1/4|5/13|4/13|17/52|2|红桃13张，另加其他3张K，共16张，概率为16/52=4/13。
+数学|袋中有3个红球和2个蓝球，不放回地依次摸出2个球，两次都摸到红球的概率是|3/10|9/25|3/5|2/5|0|第一次3/5，第二次2/4，相乘得3/10。
+数学|某彩票共100张，其中5张中奖，任买一张不中奖的概率是|1/100|19/20|1/20|5/100|1|不中奖有95张，概率为95/100=19/20。
+数学|4支球队进行单循环比赛（每两队比赛一场），共需比赛多少场|12场|6场|8场|4场|1|场次为4×3÷2=6场。
+数学|数据3、5、5、7、9的平均数和中位数分别是|5.8和5|5和5|5和5.8|5.8和7|0|平均数为29÷5=5.8，中位数为5。
+数学|若一组数据的方差为4，将每个数据都乘以3，则新数据的方差是|9|36|4|12|1|每个数据乘3，方差变为原来的3^2=9倍，即36。
+数学|甲、乙两人各射击一次，命中率分别为0.8和0.5，且互不影响，则两人都命中的概率是|0.65|0.4|0.3|0.9|1|相互独立事件同时发生的概率为0.8×0.5=0.4。
+数学|若一组数据x1、x2、…、xn的平均数为3，则数据2x1+1、2x2+1、…、2xn+1的平均数为|2|3|7|6|2|新平均数等于原平均数乘2再加1，即2×3+1=7。
+数学|某班40人，其中喜欢篮球的有25人，若用扇形统计图表示，则喜欢篮球对应的扇形圆心角是|200°|225°|180°|250°|1|圆心角为25/40×360°=225°。
+数学|若数据x、3、4、5、6的平均数是5，则x的值是|6|7|5|8|1|由(x+3+4+5+6)÷5=5得x=7。
+数学|一辆汽车以60km/h的速度行驶120km，所需时间是|2h|3h|2.5h|1h|0|时间=路程÷速度=120÷60=2h。
+数学|甲、乙两地相距36km，两人分别从两地同时出发相向而行，速度分别为4km/h和5km/h，经过几小时相遇|5h|4.5h|4h|3h|2|相遇时间=36÷(4+5)=4h。
+数学|甲以5km/h的速度先走10km，乙以7km/h的速度从同地出发追赶，乙追上甲需要|4h|2h|3h|5h|3|追及时间=10÷(7-5)=5h。
+数学|一项工程，甲单独做需12天，乙单独做需6天，两人合作完成需要|3天|6天|9天|4天|3|合作效率为1/12+1/6=1/4，所以需4天。
+数学|一项工程，甲单独做需20天，甲、乙合作需12天，则乙单独做需|24天|32天|30天|15天|2|乙的效率为1/12-1/20=1/30，所以乙单独做需30天。
+数学|某商品进价为80元，标价为120元，按标价八折出售，则利润率是|25%|40%|20%|50%|2|售价为120×0.8=96元，利润率为(96-80)÷80=20%。
+数学|某商品连续两次降价10%后售价为81元，则原价是|110元|90元|99元|100元|3|设原价为x，则x×0.9^2=81，解得x=100元。
+数学|某商品售价为120元，利润率为20%，则它的进价是|96元|150元|100元|140元|2|设进价为x，则x(1+20%)=120，解得x=100元。
+数学|将200g质量分数为20%的盐水与50g水混合，所得盐水的质量分数是|20%|25%|15%|16%|3|盐的质量为40g，总质量为250g，质量分数为40÷250=16%。
+数学|将100g质量分数为30%的溶液与200g质量分数为10%的溶液混合，所得溶液的质量分数是|15%|25%|20%|1/6|3|溶质共30+20=50g，溶液共300g，质量分数为50/300=1/6。
+数学|一个长方形的周长为40，面积为96，则它的较长边是|10|12|14|8|1|设两边为a、b，则a+b=20，ab=96，解得8和12，较长边为12。
+数学|今年父亲40岁，儿子12岁，经过多少年后父亲的年龄是儿子年龄的2倍|8年|16年|12年|20年|1|设经过x年，则40+x=2(12+x)，解得x=16。
+数学|某人上山速度为3km/h，下山速度为5km/h，往返共用8h，则单程路程是|20km|15km|18km|12km|1|设单程为xkm，则x/3+x/5=8，解得x=15km。
+数学|某商品每件成本40元，售价60元时每天可售100件；若每件降价1元，每天可多售10件，则每天的最大利润是|2400元|2250元|2000元|2500元|1|设降价x元，利润为(20-x)(100+10x)=-10(x-5)^2+2250，所以最大利润为2250元。
+英语|My father ___ to work by subway every day.|goes|went|go|gone|0|一般现在时，主语 My father 是第三人称单数，谓语用 goes。
+英语|The students in Class Two ___ football after school on Fridays.|plays|play|has played|playing|1|一般现在时，主语 The students 是复数，谓语用 play。
+英语|Neither my sister nor I ___ interested in watching horror films.|be|are|am|is|2|neither...nor 结构遵循就近原则，靠近的主语 I 与 am 搭配。
+英语|Each of the students ___ a dictionary in the exam.|were having|has|have|are having|1|each of 作主语时谓语用单数，故用 has。
+英语|There ___ a book and two pens on the desk.|has|is|have|are|1|There be 句型遵循就近原则，靠近的 a book 为单数，用 is。
+英语|Look! The children ___ happily in the playground.|played|have played|play|are playing|3|Look 提示动作正在进行，主语为复数，用 are playing。
+英语|Listen! Someone ___ the piano in the next room.|played|is playing|has played|plays|1|Listen 提示动作正在进行，someone 作主语，用 is playing。
+英语|My mother usually ___ up at six, but this morning she ___ up at seven.|gets; got|gets; gets|got; gets|got; got|0|usually 对应一般现在时，this morning 表示过去，故用 gets; got。
+英语|He ___ to Beijing last summer and ___ many places of interest.|goes; visits|went; visited|went; visits|has gone; has visited|1|last summer 表示过去，两个并列动作都用一般过去时。
+英语|When I was a child, I ___ swimming in the river every summer.|went|go|have gone|going|0|when 从句表明过去时间，every summer 表示过去习惯，用 went。
+英语|We ___ a wonderful time at the party last night.|are having|have had|had|have|2|last night 是明确的过去时间，用一般过去时 had。
+英语|—Where is Tom? —He ___ to the library. He will be back soon.|had gone|would go|has gone|has been|2|has gone to 表示去了某地尚未返回，符合语境。
+英语|I ___ this book twice so far, so I know the story well.|have read|was reading|read|had read|0|so far 常与现在完成时连用，表示到目前为止的经历。
+英语|By the end of last term, we ___ over 1,000 English words.|learned|have learned|had learned|learn|2|by the end of last term 表示过去某时之前，用过去完成时。
+英语|By the time I got to the station, the train ___.|leaves|has left|had left|left|2|by the time 从句为一般过去时，主句动作更早发生，用过去完成时。
+英语|He told me that he ___ the film the day before.|had seen|has seen|sees|saw|0|主句为过去时，the day before 表示更早的过去，用过去完成时。
+英语|She said she ___ to Shanghai the next week.|will go|has gone|would go|goes|2|主句为过去时，宾语从句表示将来用 would go。
+英语|If it ___ tomorrow, we will stay at home.|is raining|will rain|rains|rained|2|if 引导的条件状语从句用一般现在时表示将来。
+英语|I will call you as soon as I ___ at the airport.|arrived|will arrive|am arriving|arrive|3|as soon as 引导的时间状语从句用一般现在时表示将来。
+英语|—Have you finished your homework? —Yes, I ___ it an hour ago.|had finished|have finished|finished|finish|2|an hour ago 是明确的过去时间，用一般过去时 finished。
+英语|The old man ___ in this village since he was born.|has lived|lives|lived|had lived|0|since 引导的时间状语常与现在完成时连用。
+英语|—How long ___ you ___ this bike? —For three years.|have; had|will; buy|have; bought|did; buy|0|How long 询问持续时间，buy 是短暂动词，需用 have had。
+英语|My grandfather ___ for two years.|died|was dead|has died|has been dead|3|for two years 表示持续状态，die 是短暂动词，用 has been dead。
+英语|It ___ ten years since we moved to this city.|had|is|has|was|1|It is + 时间段 + since 从句，表示“自从……已多久”。
+英语|The meeting ___ for half an hour when I arrived.|has begun|had begun|had been on|began|2|for half an hour 表示持续，begin 为短暂动词，用 had been on。
+英语|Look at the dark clouds. It ___.|is going to rain|rains|has rained|rained|0|根据乌云这一迹象判断即将下雨，用 be going to。
+英语|Don't worry. I ___ you with your math this evening.|helped|help|will help|have helped|2|this evening 表示将来，用一般将来时 will help。
+英语|The bus ___ at seven tomorrow morning.|has left|leaves|was leaving|left|1|按时刻表发生的将来动作常用一般现在时，故用 leaves。
+英语|While my mother ___ dinner, I was doing my homework.|cooks|has cooked|cooked|was cooking|3|while 引导的从句表示过去正在进行的动作，用过去进行时。
+英语|At nine last night, I ___ TV in the living room when the phone rang.|was watching|have watched|watch|watched|0|at nine last night 表示过去某一时刻，when the phone rang 表示动作被打断，用过去进行时。
+英语|They ___ basketball when it suddenly began to rain.|played|were playing|have played|play|1|when 从句表示突然发生的动作，主句表示当时正在进行，用过去进行时。
+英语|I ___ my keys on my way home yesterday.|lost|losing|lose|will lose|0|yesterday 表示过去，lose 是短暂动作，用一般过去时 lost。
+英语|She ___ in the garden at this time yesterday.|was working|worked|has worked|works|0|at this time yesterday 表示过去某一时刻，用过去进行时。
+英语|The students ___ about the trip when the teacher came in. They didn't notice her at all.|talk|talked|have talked|were talking|3|when 从句表示过去某一时刻，主句表示当时正在进行，用过去进行时。
+英语|By the time he wrote the report, he ___ the book three times.|has read|read|had read|reads|2|by the time 从句为一般过去时，主句动作更早发生，用过去完成时。
+英语|By the time the teacher came in, the students ___ the classroom.|cleaned|had cleaned|have cleaned|clean|1|by the time 从句为一般过去时，主句动作更早发生，用过去完成时。
+英语|When we arrived, the concert ___ for ten minutes.|had been on|had begun|has been on|began|0|for ten minutes 表示持续，begin 为短暂动词，用 had been on。
+英语|By the time he was ten, he ___ over 500 English words.|learned|had learned|learns|has learned|1|by the time 从句为一般过去时，主句动作更早发生，用过去完成时。
+英语|The film ___ by the time I got to the cinema.|begun|begins|had begun|has begun|2|by the time 从句为一般过去时，主句动作更早发生，用过去完成时。
+英语|—Why didn't you answer my call? —Sorry, I ___ a shower.|have taken|was taking|took|take|1|问句为过去时，答语表示当时正在洗澡，用过去进行时。
+英语|The new library ___ next year.|has been built|will be built|is built|builds|1|next year 表示将来，library 与 build 是被动关系，用一般将来时的被动语态。
+英语|English ___ in many countries around the world.|speaks|spoke|is spoken|is speaking|2|English 与 speak 是被动关系，表示普遍事实用一般现在时的被动语态。
+英语|The bridge ___ by the workers last year.|built|was built|builds|is built|1|last year 表示过去，bridge 与 build 是被动关系，用一般过去时的被动语态。
+英语|A new hospital ___ in our town now.|is building|has built|builds|is being built|3|now 表示正在发生，hospital 与 build 是被动关系，用现在进行时的被动语态。
+英语|These trees ___ by the students every spring.|are planting|plant|planted|are planted|3|every spring 表示经常性动作，trees 与 plant 是被动关系，用一般现在时的被动语态。
+英语|The homework ___ before class tomorrow.|must be finished|finishes|must have finished|must finish|0|homework 与 finish 是被动关系，情态动词 must 后接 be done。
+英语|The boy ___ by his parents to look after his little sister yesterday.|is asked|asks|was asked|asked|2|yesterday 表示过去，由 by his parents 可知 boy 与 ask 是被动关系，用一般过去时的被动语态。
+英语|—Who ___ the window? —It was broken by Tom.|broke|was broken|is broken|breaks|0|答语 It was broken by Tom 表明问的是谁打破了窗户，用主动语态 broke。
+英语|The old bridge ___ next month.|will repair|is going to be repaired|repairs|is going to repair|1|next month 表示将来，bridge 与 repair 是被动关系，用 be going to 的被动语态。
+英语|Much attention ___ to the problem at the meeting yesterday.|is paid|pays|paid|was paid|3|attention 与 pay 是被动关系，yesterday 表示过去，用一般过去时的被动语态。
+英语|The room ___ by my sister every day.|cleans|is cleaned|is cleaning|cleaned|1|every day 表示经常性动作，room 与 clean 是被动关系，用一般现在时的被动语态。
+英语|The flowers ___ if you forget to water them.|have died|are died|will be died|will die|3|die 是不及物动词，没有被动语态，条件句主句用一般将来时 will die。
+英语|He ___ to play the piano when he was five.|is taught|teaches|taught|was taught|3|when he was five 表示过去，he 与 teach 是被动关系，用一般过去时的被动语态。
+英语|The book ___ well nowadays and many people like it.|selling|sold|sells|is sold|2|sell 表示“畅销”时用主动语态，主语 book 为单数，用 sells。
+英语|The sports meeting ___ next Monday because of the rain.|will be put off|puts off|will put off|is putting off|0|next Monday 表示将来，sports meeting 与 put off 是被动关系，用一般将来时的被动语态。
+英语|The trees ___ by the farmers last week.|cut down|have cut down|are cut down|were cut down|3|last week 表示过去，trees 与 cut down 是被动关系，用一般过去时的被动语态。
+英语|—Must I hand in the report today? —No, it ___ before Friday.|can be handed in|can hand in|must be handed in|must hand in|0|report 与 hand in 是被动关系，情态动词 can 后接 be done。
+英语|The little girl ___ by her grandmother at home.|is looking after|looks after|looked after|is looked after|3|little girl 与 look after 是被动关系，用一般现在时的被动语态。
+英语|A lot of trees ___ in our city in the past few years.|have been planted|are planting|have planted|planted|0|in the past few years 常与现在完成时连用，trees 与 plant 是被动关系。
+英语|The problem ___ at the meeting now.|is discussing|has discussed|is being discussed|discusses|2|now 表示正在发生，problem 与 discuss 是被动关系，用现在进行时的被动语态。
+英语|I'm sure you ___ be tired after the long trip.|must|needn't|can't|mustn't|0|表示肯定推测用 must be，意为“一定”。
+英语|—Could I borrow your pen? —Of course you ___.|need|could|must|can|3|答应对方请求时用 can，表示许可。
+英语|You ___ return the book today. You can keep it for another week.|needn't|can't|couldn't|mustn't|0|由“可以再借一周”可知没有必要今天还书，用 needn't。
+英语|You ___ be careful when you cross the street.|mustn't|can't|must|need|2|表示必须、应当做某事，用 must。
+英语|He ___ swim when he was only five.|could|can|must|may|0|when he was five 表示过去的能力，用 could。
+英语|The dictionary ___ be Tom's. It has Mary's name on it.|may|needn't|can't|must|2|由“上面有玛丽的名字”可知不可能是汤姆的，用 can't。
+英语|—Must I finish the work now? —No, you ___. You can do it after lunch.|shouldn't|mustn't|needn't|can't|2|must 引导的一般疑问句否定回答用 needn't，表示不必。
+英语|You ___ talk loudly in the library.|mustn't|could|needn't|may|0|表示禁止在图书馆大声说话，用 mustn't。
+英语|—Can you help me carry the box? —___.|Yes, I do|No, I don't|Yes, I can|Yes, I am|2|Can you...? 的答语用 can 回答。
+英语|It's raining hard. You ___ take an umbrella with you.|had better not to|would like|are used to|had better|3|表示最好做某事用 had better do，后接动词原形。
+英语|The boy ___ be very naughty, but now he is a good student.|uses to|is used to|used to|was used to|2|used to do 表示过去常常做某事，与 now 形成对比。
+英语|My father ___ get up early every morning when he worked in the factory.|used to|was used to|is used to|used|0|when he worked 表示过去，used to do 表示过去的习惯。
+英语|You ___ have told her the truth. Now she knows nothing about it.|should|need|must|would|0|should have done 表示本该做却没做，符合“她现在一无所知”的语境。
+英语|He ___ have finished the work, for the light in his office is still on.|mustn't|can't|shouldn't|needn't|1|根据灯还亮着可知他不可能已完成工作，用 can't have done。
+英语|—Would you like some tea? —___. I've just had some.|No, thanks|No, I wouldn't|Yes, I would|Yes, please|0|已经喝过茶，应礼貌拒绝，用 No, thanks。
+英语|You ___ to finish it today. There is no hurry.|needn't|mustn't|shouldn't|don't need|3|need 作实义动词时用 don't need to do，needn't 后不能接 to。
+英语|—May I take this seat? —___. It's free.|Yes, you may|No, you may not|No, you don't|Yes, you do|0|May I...? 的肯定答语用 Yes, you may。
+英语|—Could you please open the window? —___.|Sure|You're welcome|Thank you|Never mind|0|对 Could you please...? 的请求表示同意，用 Sure。
+英语|You ___ be joking! That can't be true.|should|need|can|must|3|表示强烈的肯定推测，用 must be joking。
+英语|He ___ be at home now, for he has just left for Beijing.|can't|needn't|mustn't|may|0|由“刚出发去北京”可知他现在不可能在家，用 can't。
+英语|The sign says "No Parking". You ___ park your car here.|needn't|may|mustn't|can|2|No Parking 表示禁止停车，用 mustn't。
+英语|___ I have a look at your new phone?|May|Should|Must|Need|0|征求许可用 May I...?。
+英语|We ___ respect our teachers and parents.|can't|ought to|mustn't|need|1|表示道义上的“应该”用 ought to，后接动词原形。
+英语|You'd better ___ late for school again.|not to be|don't be|not being|not be|3|had better 的否定形式是 had better not do。
+英语|—Must we clean the classroom now? —No, you ___. You can do it after school.|can't|needn't|mustn't|shouldn't|1|must 引导的一般疑问句否定回答用 needn't。
+英语|He ___ play chess well when he was ten.|must|could|may|can|1|when he was ten 表示过去的能力，用 could。
+英语|—Would you mind opening the door? —___.|Of course not|No, I would|Yes, I mind|Yes, please|0|Would you mind...? 表示不介意时用 Of course not。
+英语|You ___ have seen him yesterday, because he was in Beijing then.|needn't|mustn't|shouldn't|can't|3|由“他当时在北京”可知你不可能见过他，用 can't have done。
+英语|It's already ten o'clock. The children ___ be in bed. They have school tomorrow.|can't|needn't|should|would|2|十点已到且明天要上学，孩子应该睡觉了，用 should。
+英语|I hope ___ you again soon.|to see|saw|see|seeing|0|hope 后接动词不定式作宾语，即 hope to do。
+英语|She enjoys ___ to music after school.|listen|listening|to listen|listened|1|enjoy 后接动名词作宾语，即 enjoy doing。
+英语|Would you like ___ with us this weekend?|went|go|going|to go|3|would like 后接动词不定式，即 would like to do。
+英语|The teacher asked us ___ the text aloud.|to read|reads|read|reading|0|ask sb to do sth 表示“要求某人做某事”。
+英语|My mother made me ___ my room before lunch.|clean|to clean|cleaning|cleaned|0|make sb do sth 中不定式省略 to。
+英语|I'm looking forward to ___ you soon.|seen|see|saw|seeing|3|look forward to 中 to 是介词，后接动名词。
+英语|It's important for students ___ good study habits.|developed|developing|to develop|develop|2|It is important for sb to do sth 是固定句型。
+英语|The boy is old enough ___ himself.|to dress|dressing|dress|dressed|0|形容词 + enough to do 表示“足够……做某事”。
+英语|He kept ___ the same question again and again.|ask|to ask|asked|asking|3|keep doing sth 表示“反复做某事”。
+英语|___ more exercise is good for your health.|Takes|Take|Taking|Took|2|动名词作主语，表示一种习惯性行为。
+英语|The film is so interesting that I don't want ___.|to leave|leave|leaving|left|0|want 后接动词不定式作宾语，即 want to do。
+英语|I saw him ___ across the street just now.|walk|to walk|walked|walks|0|see sb do sth 表示看到某人做某事的全过程，不定式省略 to。
+英语|We heard her ___ an English song in the next room.|sing|sang|to sing|sings|0|hear sb do sth 中不定式省略 to。
+英语|The dirty clothes need ___ this afternoon.|washed|wash|washing|to wash|2|need doing 表示被动含义，即“需要被洗”。
+英语|He hurried to the station, ___ to catch the last train.|hope|to hope|hoped|hoping|3|现在分词作伴随状语，表示当时怀着的希望。
+英语|___ from the top of the hill, the city looks beautiful.|See|Seeing|Seen|To see|2|city 与 see 是被动关系，用过去分词作状语。
+英语|The problem is difficult ___.|solve|to solve|solved|solving|1|形容词 + to do 结构中，不定式表示方面或结果。
+英语|She was the first ___ the good news.|hear|hearing|heard|to hear|3|序数词后常接动词不定式作定语。
+英语|Instead of ___ TV, he went over his lessons.|watch|to watch|watched|watching|3|instead of 中 of 是介词，后接动名词。
+英语|He decided ___ up smoking for the sake of his health.|giving|to give|give|gave|1|decide 后接动词不定式作宾语，即 decide to do。
+英语|The man ___ is talking to our teacher is my father.|whose|whom|which|who|3|先行词 man 指人且在从句中作主语，用 who。
+英语|This is the house ___ we lived in last year.|whose|which|who|where|1|先行词 house 指物，从句中 in 后缺宾语，用 which。
+英语|I still remember the day ___ we first met.|when|who|where|which|0|先行词 day 表示时间，从句中作时间状语，用 when。
+英语|The book ___ cover is red belongs to Mary.|who|whom|whose|which|2|cover 与 book 是所属关系，用 whose 作定语。
+英语|This is the school ___ I studied ten years ago.|who|where|that|which|1|先行词 school 表示地点，从句中作地点状语，用 where。
+英语|This is the reason ___ he was late for the meeting.|why|because|what|which|0|先行词 reason 表示原因，从句中作原因状语，用 why。
+英语|The hotel ___ we stayed last summer was very clean.|where|who|that|which|0|先行词 hotel 表示地点，从句中作地点状语，用 where。
+英语|Do you know the woman ___ is standing under the tree?|whose|which|who|whom|2|先行词 woman 指人且在从句中作主语，用 who。
+英语|The little girl ___ parents died in the accident needs our help.|whose|whom|which|who|0|parents 与 girl 是所属关系，用 whose 作定语。
+英语|The city ___ I visited last year is famous for its gardens.|who|where|which|whose|2|先行词 city 指物，从句中 visited 缺宾语，用 which。
+英语|I have a friend ___ father is a famous writer.|who|which|whose|whom|2|father 与 friend 是所属关系，用 whose 作定语。
+英语|This is the factory ___ my father works.|where|that|which|who|0|先行词 factory 表示地点，从句中作地点状语，用 where。
+英语|Could you tell me ___?|where the post office was|where was the post office|where is the post office|where the post office is|3|宾语从句用陈述语序，且邮局现在的位置用一般现在时。
+英语|I don't know ___ he will come tomorrow.|whether|what|whose|which|0|从句意思完整，表示“是否”用 whether。
+英语|She asked me ___ I had finished my homework.|which|if|that|what|1|asked 后引导宾语从句表示“是否”用 if。
+英语|Do you know ___?|what do he want|what he wants|what he want|what does he want|1|宾语从句用陈述语序，主语 he 为第三人称单数，用 wants。
+英语|The teacher told us ___ the earth moves around the sun.|that|whether|if|what|0|从句是陈述事实，用 that 引导宾语从句。
+英语|I wonder ___ we should start the meeting.|when|what|whose|which|0|从句成分完整，表示时间用 when。
+英语|I want to know ___.|how old he was|how old he is|how old was he|how old is he|1|宾语从句用陈述语序，主句为现在时，从句用一般现在时。
+英语|He asked me ___ I could help him.|which|that|what|if|3|ask 后表示“是否”用 if 引导宾语从句。
+英语|I don't know ___ to deal with the problem.|who|how|what|which|1|deal with 后已有宾语 the problem，表示方式用 how。
+英语|Can you tell me why he ___ late yesterday?|were|is|are|was|3|yesterday 表示过去，主语 he 为单数，用 was。
+英语|___ it was raining heavily, they went on working.|Although|If|So|Because|0|前后为让步关系，用 Although 引导让步状语从句。
+英语|We won't start the meeting ___ everyone arrives.|until|so|because|although|0|not...until 表示“直到……才”。
+英语|___ you work harder, you will fail the exam.|Because|Although|Unless|If|2|unless 表示“除非”，相当于 if...not。
+英语|He was so tired ___ he fell asleep at once.|if|because|although|that|3|so...that 表示“如此……以至于”。
+英语|___ I got home, my mother was cooking.|Since|Until|While|When|3|when 引导时间状语从句，表示“当我到家时”。
+英语|She has lived here ___ she came to this city.|before|since|when|until|1|since 引导时间状语从句，主句用现在完成时。
+英语|We will go hiking ___ it is fine tomorrow. We are not sure about the weather yet.|if|because|though|unless|0|表示“如果”用 if 引导条件状语从句。
+英语|___ he is young, he knows a lot about science.|Although|Because|So|If|0|前后为让步关系，用 Although 引导让步状语从句。
+英语|I'll wait here ___ you come back.|so|until|because|although|1|until 引导时间状语从句，表示“直到……为止”。
+英语|He ran fast ___ he could catch the bus.|unless|although|so that|because|2|so that 引导目的状语从句，表示“以便”。
+英语|___ you don't hurry, you will miss the train.|Although|If|Unless|Because|1|if 引导条件状语从句，表示“如果”。
+英语|The teacher spoke slowly ___ all the students could understand her.|though|so that|if|because|1|so that 引导目的状语从句，表示“以便”。
+英语|If I ___ you, I would accept the invitation.|am|was|were|be|2|与现在事实相反的虚拟条件句，if 从句中 be 动词用 were。
+英语|If it ___ tomorrow, we would go on a picnic.|won't rain|didn't rain|doesn't rain|wouldn't rain|1|与将来事实相反的虚拟条件句，if 从句用一般过去时。
+英语|I wish I ___ more time to practice English.|will have|am having|have|had|3|wish 后从句表示与现在事实相反的愿望，用一般过去时。
+英语|If he had left earlier, he ___ the train.|caught|catches|would catch|would have caught|3|与过去事实相反的虚拟条件句，主句用 would have done。
+英语|If I had known your address, I ___ you last week.|would have visited|will visit|visited|would visit|0|与过去事实相反的虚拟条件句，主句用 would have done。
+英语|I wish I ___ his advice yesterday.|took|take|would take|had taken|3|wish 后从句表示与过去事实相反的愿望，用过去完成时。
+英语|Neither of the two answers ___ correct.|are|be|were|is|3|neither of 作主语时谓语通常用单数，故用 is。
+英语|The number of students in our school ___ about 1,500.|are|have|were|is|3|the number of 表示“……的数量”，谓语用单数。
+英语|A number of books ___ been donated to the library.|has|have|was|is|1|a number of 表示“许多”，谓语用复数，故用 have。
+英语|Either you or he ___ going to attend the meeting.|am|are|is|be|2|either...or 连接主语时遵循就近原则，靠近的 he 用 is。
+英语|Not only the students but also the teacher ___ interested in the game.|have|were|are|is|3|not only...but also 连接主语时遵循就近原则，靠近的 teacher 用 is。
+英语|The teacher with his students ___ visiting the museum now.|are|is|were|have|1|with 短语作后置定语，主语仍是 the teacher，谓语用单数。
+英语|Everyone in our class ___ to the museum, and now we are back.|has gone|have been|have gone|has been|3|everyone 作主语时谓语用单数，has been to 表示去过已回。
+英语|Ten years ___ a long time to wait.|have been|were|is|are|2|表示时间、距离等的复数名词作整体看待时，谓语用单数。
+英语|We should be strict ___ ourselves in our studies.|at|for|with|in|2|be strict with sb 表示“对某人严格”。
+英语|The girl is good ___ playing the piano.|with|for|in|at|3|be good at doing sth 表示“擅长做某事”。
+英语|I'm looking forward ___ hearing from you.|to|with|for|at|0|look forward to 是固定搭配，to 为介词。
+英语|He is interested ___ science and technology.|for|in|at|on|1|be interested in 表示“对……感兴趣”。
+英语|He spent two hours ___ his homework last night.|at|on|for|in|1|spend time on sth 表示“在某事上花费时间”。
+英语|Don't laugh ___ others when they make mistakes.|with|to|at|for|2|laugh at sb 表示“嘲笑某人”。
+英语|Our teacher is patient ___ us.|with|to|for|at|0|be patient with sb 表示“对某人有耐心”。
+英语|The train arrived ___ Beijing at seven.|at|to|on|in|3|arrive in 后接大地点，arrive at 后接小地点。
+英语|We should take advantage ___ this opportunity.|of|in|for|at|0|take advantage of 是固定搭配，意为“利用”。
+英语|This is not my pen. ___ is in my bag.|My|Me|Mine|Myself|2|此处需要名词性物主代词作主语，用 Mine。
+英语|The boy hurt ___ when he fell off the bike.|he|himself|his|him|1|hurt oneself 表示“伤到自己”，用反身代词 himself。
+英语|___ of the two girls is good at singing.|Neither|Both|Every|All|0|两者中“没有一个”用 Neither，谓语用单数。
+英语|—Which of the two books do you want? —___ is OK. I just need one.|Both|None|Either|All|2|两者中任选一个用 Either，谓语用单数。
+英语|The weather in Beijing is colder than ___ in Guangzhou.|one|that|this|it|1|比较的是天气，用 that 替代前面提到的不可数名词 weather。
+英语|I have two sisters. One is a nurse, and ___ is a teacher.|the other|another|other|others|0|两者中的另一个用 the other。
+英语|We enjoyed ___ at the party last night.|ours|our|ourselves|us|2|enjoy oneself 表示“玩得开心”，用反身代词 ourselves。
+英语|This book is ___ than that one.|the most interesting|more interesting|interesting|most interesting|1|than 提示比较级，interesting 的比较级是 more interesting。
+英语|Tom is ___ student in our class.|tallest|the tallest|tall|taller|1|in our class 表示范围，三者以上比较用最高级，且最高级前加 the。
+英语|The weather today is even ___ than yesterday.|bad|worse|worst|the worst|1|than 提示比较级，bad 的比较级是 worse。
+英语|My schoolbag is ___ as yours.|heavier|so heavy|the heaviest|as heavy|3|as...as 表示“和……一样”，中间用形容词原级。
+英语|The more you practice, ___ you will be.|the best|the better|better|best|1|the more...the better 表示“越……越……”。
+英语|This is ___ film I have ever seen.|best|a good|a better|the best|3|I have ever seen 表示范围，用最高级且前加 the。
+英语|Her English is much ___ than before.|good|better|well|best|1|than 提示比较级，good 的比较级是 better。
+英语|You can go by bus ___ by subway. Either way is fine.|and|so|but|or|3|表示两者选其一用 or。
+英语|He was tired, ___ he kept on working.|but|so|because|or|0|前后为转折关系，用 but。
+英语|It was raining, ___ we stayed at home.|or|but|so|though|2|前后为因果关系，用 so。
+英语|___ he is poor, he is honest.|Although|If|So|Because|0|前后为让步关系，用 Although。
+英语|Hurry up, ___ you will be late.|so|but|and|or|3|“祈使句 + or + 陈述句”表示“否则”。
+英语|She is not only a writer ___ also a teacher.|and|so|or|but|3|not only...but also 是固定搭配。
+英语|The doctor advised him to give up ___ because it is bad for his health.|to smoke|smoked|smoking|smoke|2|give up 后接动名词作宾语，即 give up doing。
+英语|We must ___ the environment instead of polluting it.|protect|borrow|waste|destroy|0|由 instead of polluting 可知要“保护”环境。
+英语|He is very ___. He always helps others when they are in trouble.|honest|lazy|helpful|selfish|2|由“总是帮助他人”可知他很乐于助人。
+英语|The box is too heavy for me to ___.|carry|accept|answer|choose|0|too heavy to carry 表示“太重而搬不动”。
+英语|She ___ her keys everywhere, but she couldn't find them.|looked after|looked for|found|discovered|1|由 couldn't find 可知她到处“寻找”钥匙。
+英语|—What's the weather like today? —It's ___.|Sunday|winter|sunny|January|2|询问天气，答语应用表示天气状况的 sunny。
+英语|The price of the house is too ___. I can't afford it.|cheap|high|expensive|low|1|表示价格高用 high，expensive 通常修饰物品本身。
+英语|Could you ___ me your bike? Mine is broken.|lend|keep|borrow|return|0|lend sb sth 表示“把某物借给某人”。
+英语|—Thank you for your help. —___.|Good idea|You're welcome|Never mind|That's right|1|对感谢的应答用 You're welcome。
+英语|—I'm sorry I'm late. —___.|Thank you|Goodbye|That's all right|You're welcome|2|对道歉的应答用 That's all right。
+英语|—Would you like to go shopping with me? —___. I have to finish my homework.|I'd love to, but I can't|No, I don't|Yes, I am|Yes, I'd love to|0|婉拒邀请用 I'd love to, but I can't。
+英语|—How do you like our city? —___.|That's right|You're welcome|It's wonderful|Very well|2|How do you like...? 询问看法，答语用 It's wonderful。
+英语|—Could I use your phone? —___.|It doesn't matter|Good idea|Sure, here you are|You're welcome|2|答应请求并递上物品用 Sure, here you are。
+英语|—What a nice day! How about going for a walk? —___.|You're welcome|Good idea|Never mind|That's right|1|对建议表示赞同用 Good idea。
+语文|下列词语中，括号内字的读音正确的一项是？|亘古（gèng）|殷红（yīn）|酝酿（niàng）|粗犷（kuàng）|2|“酝酿”读yùn niàng，“犷”应读guǎng，“亘”应读gèn，“殷红”的“殷”应读yān。
+语文|下列词语中，括号内字的读音正确的一项为？|栖息（xī）|静谧（mì）|刹那（shā）|迸溅（bìng）|1|“静谧”的“谧”读mì，“栖”应读qī，“刹”应读chà，“迸”应读bèng。
+语文|下列词语中，括号内字注音无误的一项是？|龟裂（guī）|羸弱（yíng）|憎恶（zēng）|稽首（jī）|2|“憎恶”的“憎”读zēng，“稽首”的“稽”应读qǐ，“龟裂”的“龟”应读jūn，“羸”应读léi。
+语文|下列词语中，括号内字的读音完全正确的一项是？|慰藉（jiè）|吮吸（yǔn）|谮害（jiàn）|皈依（fǎn）|0|“慰藉”的“藉”读jiè，“吮”应读shǔn，“皈”应读guī，“谮”应读zèn。
+语文|下列词语中，括号内字读音正确的一组是？|蹒跚（mán）|拮据（jū）|褴褛（lǔ）|愧怍（zhà）|1|“拮据”的“据”读jū，“褴褛”的“褛”应读lǚ，“蹒”应读pán，“怍”应读zuò。
+语文|下列词语中，括号内字的注音正确的一项是？|诘问（jié）|吊唁（yán）|骷髅（gū）|取缔（tì）|0|“诘问”的“诘”读jié，“唁”应读yàn，“缔”应读dì，“骷”应读kū。
+语文|下列词语中，括号内字读音无误的一项是？|凫水（niǎo）|行辈（háng）|撺掇（cuàn）|归省（shěng）|1|“归省”的“省”应读xǐng，“行辈”的“行”读háng，“撺”应读cuān，“凫”应读fú。
+语文|下列词语中，括号内字的读音全都正确的一项是？|戛然而止（gá）|蓦然（mù）|冗杂（rǒng）|参差（cān chā）|2|“蓦”应读mò，“冗”读rǒng，“戛”应读jiá，“参差”应读cēn cī。
+语文|下列词语中，括号内字注音正确的一组是？|荫庇（yīn）|挫折（cuò）|剽悍（biāo）|绯红（fěi）|1|“荫庇”的“荫”应读yìn，“剽”应读piāo，“挫”读cuò，“绯”应读fēi。
+语文|下列词语中，括号内字的读音判断正确的一项是？|应和（hé）|贮蓄（zhù）|薄雾（báo）|着落（zháo）|1|“贮”读zhù，“着落”的“着”应读zhuó，“薄雾”的“薄”应读bó，“应和”的“和”应读hè。
+语文|下列词语中，没有错别字的一项是？|谈笑风声|迫不及待|翻来复去|走头无路|1|“翻来覆去”应为“覆”，“谈笑风生”应为“生”，“走投无路”应为“投”。
+语文|下列词语中，书写完全正确的一项是？|一鼓作气|迫不急待|再接再励|悬梁刺骨|0|“再接再厉”应为“厉”，“悬梁刺股”应为“股”，“迫不及待”应为“及”。
+语文|下列词语中，没有错别字的一组是？|滥芋充数|默守成规|无精打采|世外桃园|2|“世外桃源”应为“源”，“墨守成规”应为“墨”，“滥竽充数”应为“竽”。
+语文|下列词语中，字形全部正确的一项是？|不落窠臼|察颜观色|明辩是非|脍灸人口|0|“脍炙人口”应为“炙”，“察言观色”应为“言”，“明辨是非”应为“辨”。
+语文|下列词语中，书写无误的一项是？|相辅相承|随声附合|首曲一指|理直气壮|3|“相辅相成”应为“成”，“首屈一指”应为“屈”，“随声附和”应为“和”。
+语文|下列词语中，字形正确的一项是？|迁徙|精萃|幢憬|磋跎|0|“精粹”应为“粹”，“蹉跎”应为“蹉”，“憧憬”应为“憧”。
+语文|下列词语中，书写正确的一项是？|安详|寒喧|端祥|编篡|0|“端详”应为“详”，“寒暄”应为“暄”，“编纂”应为“纂”。
+语文|下列词语中，没有错别字的是？|装祯|娇健|辐射|毗临|2|“矫健”应为“矫”，“毗邻”应为“邻”，“装帧”应为“帧”。
+语文|下列词语中，字形无误的一项是？|磅薄|慷概|迷罔|斑斓|3|“迷惘”应为“惘”，“慷慨”应为“慨”，“磅礴”应为“礴”。
+语文|下列词语中，书写全部正确的一项是？|周而复始|天衣无逢|草长鹰飞|消声匿迹|0|“销声匿迹”应为“销”，“草长莺飞”应为“莺”，“天衣无缝”应为“缝”。
+语文|下列词语中，有错别字的一项是？|戛然而止|大彻大悟|人情事故|参差不齐|2|“人情事故”应为“人情世故”。
+语文|下列词语中，含有错别字的一项是？|草长鹰飞|销声匿迹|目空一切|叹为观止|0|“草长鹰飞”应为“草长莺飞”。
+语文|下列句子中，成语使用恰当的一项是？|同学们在操场上生龙活虎，教室里的气氛也栩栩如生。|这部小说情节跌宕起伏，抑扬顿挫，引人入胜。|春天来了，公园里百花齐放，姹紫嫣红，美不胜收。|他学习成绩好，经常向老师请教，这种不耻下问的精神值得学习。|2|“不耻下问”指向地位比自己低的人请教，“栩栩如生”形容艺术形象逼真，“抑扬顿挫”形容声音高低起伏，均不合语境。
+语文|下列各句中，成语使用恰当的一项是？|面对敌人的威逼利诱，他大义凛然，毫不屈服。|他的作文写得很好，老师夸他妙手回春。|运动会上，他跑得很快，简直是汗牛充栋。|这首歌旋律优美，他唱得栩栩如生。|0|“栩栩如生”形容艺术形象，“妙手回春”形容医术高明，“汗牛充栋”形容书籍多。
+语文|下列句子中，成语运用恰当的一项是？|小刚犯了错误，老师批评他，他却心悦诚服地反驳。|这篇文章观点新颖，读后令人耳目一新。|爷爷虽然年过七旬，但身体还很硬朗，走起路来老态龙钟。|他一边写作业一边看电视，真是全神贯注。|1|“全神贯注”与“一边写作业一边看电视”矛盾，“老态龙钟”与“硬朗”矛盾，“心悦诚服”与“反驳”矛盾。
+语文|下列各句中，成语运用不恰当的一项是？|春天，校园里的花开得姹紫嫣红。|他的书法作品笔走龙蛇，让人不忍卒读。|他做事总是三心二意，不能持之以恒。|面对突如其来的变故，他手足无措，不知如何是好。|1|“不忍卒读”形容文章内容悲惨动人，不能形容书法作品。
+语文|下列句子中，成语使用不恰当的一项是？|学习上遇到难题，我们要不耻下问，虚心请教老师和同学。|经过多年的努力，他终于功成名就。|这部纪录片真实记录了战火中人们的流离失所，令人触目惊心。|他在演讲比赛中侃侃而谈，赢得了阵阵掌声。|0|“不耻下问”指向地位比自己低的人请教，不能用于向老师和同学请教。
+语文|下列各句中，成语使用不恰当的一项是？|同学们你一言我一语，讨论得热火朝天。|老舍的《骆驼祥子》深刻揭示了旧社会的黑暗。|山路崎岖，我们小心翼翼地在林中穿行。|他说话声音很小，坐在后排的同学几乎听不到，真是抑扬顿挫。|3|“抑扬顿挫”形容声音高低起伏、和谐有节奏，不能形容声音小。
+语文|下列句子中，成语使用正确的一项是？|他平时不努力，考试却想取得好成绩，这无异于守株待兔。|这部电影太感人了，他看得津津乐道。|他的演讲非常精彩，同学们听得眼花缭乱。|运动会上，他一路领先，跑得慢条斯理。|0|“眼花缭乱”形容看到复杂景象而感到迷乱，“津津乐道”指有兴趣地谈论，“慢条斯理”形容动作缓慢，均不合语境。
+语文|下列各句中，成语使用正确的一项是？|这篇文章文笔优美，字里行间流露出作者对故乡的眷恋。|他在课堂上大声喧哗，受到了老师的表扬，真是罪有应得。|同学们来到敬老院，为老人们表演节目，真是雪中送炭。|这次考试他名列前茅，心里感到自惭形秽。|0|“罪有应得”指因犯罪受到应有惩罚，“雪中送炭”指在别人急需时给予帮助，“自惭形秽”指因不如别人而惭愧。
+语文|下列句子中，成语使用有误的一项是？|他做事总是瞻前顾后，雷厉风行，效率很高。|这篇小说塑造了一个栩栩如生的人物形象。|为了完成这项任务，大家齐心协力，众志成城。|他虚心接受批评，知错就改，这种态度值得肯定。|0|“瞻前顾后”形容顾虑太多、犹豫不决，与“雷厉风行”矛盾。
+语文|下列各句中，成语使用有误的一项是？|春天来了，田野里一片生机勃勃的景象。|我们要爱护环境，不能随意丢弃垃圾。|这场篮球比赛双方实力相当，比分一直咬得很紧，真是差强人意。|他待人接物彬彬有礼，深受大家喜爱。|2|“差强人意”指大体上还能使人满意，不能理解为“双方实力接近”。
+语文|下列句子中，成语使用最恰当的一项是？|教室里鸦雀无声，同学们七嘴八舌地讨论着。|他犯了错误，却理直气壮地向老师道歉。|小明的作文写得空洞无物，老师却夸他妙笔生花。|他博览群书，知识渊博，讲起历史故事来滔滔不绝。|3|“妙笔生花”形容文笔奇妙，与“空洞无物”矛盾；“理直气壮”与“道歉”矛盾；“鸦雀无声”与“七嘴八舌”矛盾。
+语文|下列各句中，成语使用很不恰当的一项是？|他的画作色彩鲜艳，构图巧妙，令人叹为观止。|面对困难，他从不怨天尤人，而是积极想办法解决。|这篇文章的语言朴实无华，却蕴含着深刻的道理。|同学们在教室里大声朗读，声音振聋发聩。|3|“振聋发聩”比喻用语言文字唤醒糊涂麻木的人，不能形容声音大。
+语文|下列句子中，成语使用符合语境的一项是？|听到这个好消息，他忍俊不禁地笑了起来。|这部电影情节拖沓，让人看得津津有味。|我们要相信自己，不能妄自菲薄自己。|他做事认真，从不敷衍了事。|3|“妄自菲薄”不能带宾语“自己”，“忍俊不禁”与“笑了起来”语义重复，“津津有味”与“拖沓”矛盾。
+语文|下列各句中，成语使用不合语境的一项是？|小刚学习刻苦，成绩优异，老师对他的进步耿耿于怀。|这位老艺术家德高望重，深受人们爱戴。|他做事雷厉风行，从不拖泥带水。|图书馆里静悄悄的，只听见翻书的沙沙声。|0|“耿耿于怀”多指对不愉快的事念念不忘，不能用于形容对进步的肯定。
+语文|下列句子中，成语使用最为恰当的一项是？|春天，公园里游人如织，大家都来欣赏这花团锦簇的美景。|他的演讲空洞无物，同学们却听得聚精会神，赞不绝口。|这道题很简单，他却百思不得其解，很快就做出来了。|他做事总是优柔寡断，很快就作出了决定。|0|B项“空洞无物”与“赞不绝口”矛盾，C项“百思不得其解”与“很快就做出来”矛盾，D项“优柔寡断”与“很快作出决定”矛盾。
+语文|下列各句中，成语使用最不恰当的一项是？|这篇文章观点鲜明，论据充分，读来令人信服。|他平时沉默寡言，但在讨论会上却能侃侃而谈。|他在比赛中失利，心情十分沮丧，却强颜欢笑，真是喜出望外。|面对突如其来的灾难，全国人民众志成城，共克时艰。|2|“喜出望外”指遇到出乎意料的喜事而特别高兴，与“失利”“沮丧”矛盾。
+语文|下列各句中，成语使用最恰当的一项是？|这场演出精彩绝伦，观众们却看得痛心疾首。|他平时不努力，考试时胸有成竹，结果名落孙山。|爷爷年纪大了，走起路来健步如飞，真是老态龙钟。|他做事一丝不苟，连标点符号都要反复推敲。|3|“痛心疾首”形容痛恨到极点，不能形容观看精彩演出；“胸有成竹”与“名落孙山”矛盾，“健步如飞”与“老态龙钟”矛盾。
+语文|下列句子中，成语使用不符合语境的一项是？|这位医生医术高明，治好了许多病人，真是妙手回春。|我们要珍惜时间，不能虚度光阴。|他的作文文不对题，老师却夸他妙笔生花。|同学们在操场上你追我赶，生龙活虎。|2|“妙笔生花”形容文笔奇妙，不能用来评价“文不对题”的作文。
+语文|下列各句中，成语使用最符合语境的一项是？|他做事总是粗枝大叶，细致入微。|他考试作弊，被老师发现后，仍然心安理得。|这篇文章写得枯燥乏味，读来让人爱不释手。|这场辩论赛双方唇枪舌剑，精彩纷呈。|3|“心安理得”与作弊被发现的语境不符，“爱不释手”与“枯燥乏味”矛盾，“粗枝大叶”与“细致入微”矛盾。
+语文|下列各句中，成语运用最不恰当的一项是？|面对老师的批评，他虚怀若谷，诚恳地接受了意见。|他在课堂上随便讲话，影响别人学习，真是罪不容诛。|这篇报道真实地反映了灾区人民的生活，读来令人潸然泪下。|他几十年如一日地照顾孤寡老人，这种精神令人敬佩。|1|“罪不容诛”指罪大恶极，处死都不能抵偿，用在此处过重且不当。
+语文|下列句子中，没有语病的一项是？|能否取得好成绩，关键在于努力。|通过这次活动，使我明白了团结的重要性。|我们要继承和发扬中华民族的优良传统。|他那和蔼可亲的笑容和亲切的话语时常在我耳边响起。|2|A项两面对一面，“能否”与“努力”不能对应；B项“通过……使……”导致主语残缺；D项“笑容”不能“响起”，主谓搭配不当；C项没有语病。
+语文|下列各句中，没有语病的一项是？|他不但学习好，但是品德也很优秀。|我们要及时纠正并发现学习中存在的问题。|为了防止此类事故不再发生，学校加强了安全教育。|这次比赛，我们班取得了优异的成绩，大家都非常高兴。|3|A项“不但……但是……”关联词搭配不当，应改为“不但……而且……”；B项“纠正”与“发现”语序不当，应先“发现”后“纠正”；C项“防止”与“不再”否定不当，应删去“不再”；D项没有语病。
+语文|下列句子中，没有语病的一句是？|阅读经典作品，可以丰富我们的知识，提高我们的写作水平。|他之所以取得好成绩的原因，是因为他平时刻苦努力。|同学们认真讨论并听取了校长的报告。|这本书的内容和插图都很精美。|0|B项“之所以……的原因”与“是因为”句式杂糅；C项“讨论”与“听取”语序不当，应先“听取”后“讨论”；D项“内容”不能“精美”，主谓搭配不当；A项没有语病。
+语文|下列句子中，有语病的一项是？|他写的作文语言流畅，条理清晰。|春天的济南是一个美丽的季节。|我们要养成认真读书的好习惯。|这次活动增强了同学们的环保意识。|1|B项“济南”与“季节”主宾搭配不当，应改为“济南的春天是一个美丽的季节”；A、C、D三项没有语病。
+语文|下列各句中，有语病的一项是？|他不但自己学习好，还经常帮助同学。|我们要学会在逆境中磨炼自己的意志。|这次会议大约有一百人左右参加。|经过大家的努力，我们终于完成了任务。|2|C项“大约”与“左右”语意重复，应删去其一；A、B、D三项没有语病。
+语文|下列句子中，有语病的一句是？|同学们都积极响应学校发出的号召。|这本书让我爱不释手。|通过阅读，我开阔了眼界。|他的写作水平明显改进了。|3|D项“水平”不能“改进”，应改为“提高”；A、B、C三项没有语病。
+语文|下列句子中，表达没有语病的一项是？|当前，青少年沉迷网络的问题引起了社会各界的广泛关注。|能否杜绝校园欺凌，关键在于学校、家庭和社会形成合力。|通过开展“书香校园”活动，使同学们的阅读兴趣大大提高了。|他虽然学习成绩优秀，但是乐于助人，深受同学们的喜爱。|0|B项两面对一面，C项主语残缺，D项关联词使用不当。
+语文|下列各句中，没有语病的一句是？|我们要认真克服并及时发现工作中的缺点。|这次运动会，运动员们发扬了团结拼搏的精神，取得了优异成绩。|他的家乡是河南人。|为了防止疫情不再扩散，大家做好了防护。|1|A项语序不当，C项主宾搭配不当，D项否定不当。
+语文|下列句子中，有语病、表达不当的一项是？|通过这次社会实践活动，同学们增强了社会责任感。|他那种拾金不昧的精神，值得我们学习。|我们要爱护公共设施，防止不要损坏。|春天的校园里，百花争艳，景色宜人。|2|C项“防止”与“不要”双重否定导致语意相反。
+语文|下列各句中，有语病的一句是？|这场报告会，使我们受到了深刻的教育。|他不但会弹钢琴，而且会拉小提琴。|同学们以敬佩的目光注视着这位英雄。|他这次没有考好，主要原因是由于粗心造成的。|3|D项“主要原因是”与“由于……造成的”句式杂糅。
+语文|下列句子中，没有语病且句意明确的一项是？|我们要善于从失败中吸取教训，不断进步。|能否取得优异成绩，是同学们刻苦努力的结果。|他不但没有完成作业，反而还认真完成了作业。|临近中考，同学们的学习态度和学习成绩都有所提高。|0|B项两面对一面，“能否”与“是……结果”不能对应；C项“没有完成作业”与“认真完成了作业”前后矛盾，不合逻辑；D项“态度”不能“提高”，应改为“端正”；A项没有语病。
+语文|下列句子中，不存在语病的一项是？|他这个人脾气暴躁，所以经常帮助别人。|经过老师的耐心讲解，他终于弄懂了这道题。|这次考试成绩不理想，他决心改进学习态度，提高学习效率。|为了防止交通事故不再发生，我们要遵守交通规则。|1|A项强加因果，C项“态度”不能“改进”，D项否定不当。
+语文|下列各句中，存在语病的一项是？|他的演讲深入浅出，通俗易懂，深受大家欢迎。|我们要继承和发扬革命先辈的光荣传统。|这次活动，使我们增长了见识，开阔了视野，提高了友谊。|这部电视剧播出后，受到了观众的一致好评。|2|C项“提高”与“友谊”搭配不当，应改为“增进友谊”；A、B、D三项没有语病。
+语文|下列各句中，表述存在语病的一项是？|老师经常教育我们要做一个诚实守信的人。|通过这次参观，我了解了祖国悠久的历史。|他那认真负责的工作态度，值得我们学习。|他坚持每天阅读，日积月累，写作水平得到了显著的改善。|3|D项“水平”不能“改善”，应改为“提高”。
+语文|下列句子中，没有语病、表达通顺的一项是？|在学习中，我们要注意培养自己分析问题和解决问题的能力。|我们要及时改正并发现自己的缺点。|能否取得好成绩，关键在于平时的努力。|通过这次谈话，使他认识到了自己的错误。|0|B项语序不当，C项两面对一面，D项主语残缺。
+语文|下列句子中，不属于病句的一项是？|通过这次活动，使我们增强了环保意识。|他那助人为乐的精神，值得大家学习。|这次比赛，我们班取得了第一名，大家感到非常无比自豪。|我们要节约用水，防止水资源的浪费现象不再发生。|1|A项“通过……使……”导致主语残缺；C项“非常”与“无比”语意重复；D项“防止……不再发生”否定不当；B项没有语病。
+语文|下列句子中，属于病句的一项是？|这次演讲比赛，他发挥出色，获得了一等奖。|同学们排着整齐的队伍，兴高采烈地走进会场。|他那种刻苦钻研的精神，是我们学习的榜样。|我们要学会独立思考，不能人云亦云。|2|C项“精神”不能是“榜样”，主宾搭配不当。
+语文|下列各句中，含有语病的一项是？|这本书不仅内容丰富，而且插图精美。|他热情地接待了前来参观的客人。|在老师的帮助下，他的学习成绩有了明显的提高。|他这次考试成绩不理想，是因为由于他平时不努力造成的。|3|D项“是因为”与“由于……造成的”句式杂糅。
+语文|下列各句中，不存在语病的一项是？|我们要努力营造一个整洁、优美、和谐的学习环境。|通过开展阳光体育活动，使同学们的体质得到了增强。|他那种无私忘我的精神，是我们学习的榜样。|能否养成良好的阅读习惯，是提高语文素养的重要途径。|0|A项没有语病；B项“通过……使……”导致主语残缺，C项主宾搭配不当，D项两面对一面。
+语文|下列句子中，有语病、表达不通顺的一项是？|做一个对社会有用的人，关键在于从小树立远大理想。|为了避免今后不再发生类似事故，我们必须严格遵守交通规则。|这次社会调查，使我们了解了许多课本上学不到的知识。|他那和蔼可亲的面容，时常浮现在我的眼前。|1|B项“避免”与“不再”否定不当，应删去“不再”；A、C、D三项没有语病。
+语文|下列句子中，标点符号使用正确的一项是？|他问我：“你明天去图书馆吗？”|他问我：你明天去图书馆吗？|他问我“你明天去图书馆吗？”|他问我：“你明天去图书馆吗”？|0|引文独立成句时问号应放在引号内，且提示语后应用冒号。
+语文|下列各句中，标点符号使用正确的一项是？|我喜欢读《西游记》、《水浒传》和《三国演义》。|我喜欢读《西游记》，《水浒传》和《三国演义》。|我喜欢读《西游记》《水浒传》和《三国演义》。|我喜欢读“西游记”“水浒传”和“三国演义”。|2|书名号之间不用顿号，也不能用逗号或引号代替书名号。
+语文|下列句子中，标点符号运用正确的一项是？|这次活动，同学们有的唱歌，有的跳舞，有的朗诵，节目丰富多彩。|这次活动，同学们有的唱歌；有的跳舞；有的朗诵，节目丰富多彩。|这次活动，同学们有的唱歌、有的跳舞、有的朗诵，节目丰富多彩。|这次活动，同学们有的唱歌，有的跳舞，有的朗诵。节目丰富多彩。|0|并列分句之间应用逗号，不能用顿号或分号。
+语文|下列各句中，标点符号运用正确的一项是？|我不知道他为什么没有来。|我不知道，他为什么没有来。|我不知道他为什么没有来？|我不知道他为什么没有来！|0|“我不知道……”是陈述句，句末应用句号。
+语文|下列句子中，标点符号使用完全正确的一项是？|“这真是太美了！”他说：“我从来没见过这么美的景色。”|“这真是太美了！”他说，“我从来没见过这么美的景色。”|“这真是太美了！他说，我从来没见过这么美的景色。”|“这真是太美了！”他说。“我从来没见过这么美的景色。”|1|提示语在中间时后面用逗号，前后引文同属一人所说。
+语文|下列各句中，标点符号使用完全正确的一项是？|这次运动会，我们班参加了跑步、跳远、和跳绳、三个项目。|这次运动会，我们班参加了跑步、跳远、和跳绳三个项目。|这次运动会，我们班参加了跑步，跳远，和跳绳三个项目。|这次运动会，我们班参加了跑步、跳远和跳绳三个项目。|3|并列词语之间用顿号，最后一项前用“和”，不能重复使用顿号与“和”。
+语文|下列句子中，标点符号运用完全正确的一项是？|你是去图书馆呢。还是去操场呢？|你是去图书馆呢；还是去操场呢？|你是去图书馆呢？还是去操场呢？|你是去图书馆呢，还是去操场呢？|3|选择问句中间用逗号，问号只放在句末。
+语文|下列各句中，标点符号运用完全正确的一项是？|老师说：“同学们，明天要考试，请大家认真复习。”|老师说：“同学们，明天要考试，请大家认真复习。”。|老师说，“同学们，明天要考试，请大家认真复习。”|老师说：“同学们，明天要考试，请大家认真复习”。|0|引文独立成句时句号应放在引号内，且不能重复加句号。
+语文|下列句子中，标点符号使用无误的一项是？|他问我：明天几点出发？|他问我：“明天几点出发”？|他问我明天几点出发。|他问我明天几点出发？|2|转述他人的话不用问号，句末用句号。
+语文|下列各句中，标点符号使用无误的一项是？|桃花、杏花、梨花都开了；红的像火，粉的像霞，白的像雪。|桃花、杏花、梨花都开了，红的像火、粉的像霞、白的像雪。|桃花，杏花，梨花都开了，红的像火，粉的像霞，白的像雪。|桃花、杏花、梨花都开了，红的像火，粉的像霞，白的像雪。|3|并列词语之间用顿号，并列分句之间用逗号。
+语文|给下列叙述探洞经历的句子排序，最恰当的一项是？①我们几个小伙伴商量后，决定去探个究竟。②听村里的老人说，后山有一个深不见底的山洞。③周末，我们带上手电筒来到山洞口。④进洞后，我们发现洞壁上挂满了晶莹剔透的石钟乳。|②③①④|①②③④|③②①④|②①③④|3|按“听说洞穴—决定探究竟—到达洞口—进洞发现”的顺序排列。
+语文|给下列介绍阅读方法的句子排序，最恰当的一项是？①首先，要选择适合自己的好书。②其次，要养成每天阅读的习惯。③最后，还要学会做读书笔记。④阅读是提高语文素养的重要途径。|④①②③|①④②③|①②④③|④②①③|0|先总说阅读的意义，再按“首先、其次、最后”展开。
+语文|给下列介绍共享单车的句子排序，最恰当的一项是？①只要扫一扫二维码，就能骑走，十分便利。②如今，共享单车已经遍布城市的大街小巷。③不过，乱停乱放、车辆损坏等问题也随之而来。④对此，我们应当规范用车、文明停放。|①②③④|②①③④|②①④③|②③①④|1|先介绍共享单车的普及，再说明便利，接着指出问题，最后提出对策。
+语文|填入下面横线处的句子，与上下文衔接最恰当的一项是？生活中难免遇到困难。面对困难，我们不能退缩，________，才能找到解决问题的办法。|只要勇敢面对，积极想办法|只有积极想办法，勇敢面对|因为勇敢面对，积极想办法|只有勇敢面对，积极想办法|3|“只有……才……”搭配，且应先“勇敢面对”再“积极想办法”。
+语文|填入下面横线处的句子，与上下文语意最连贯的一项是？荀子说：“锲而舍之，朽木不折；锲而不舍，金石可镂。”________|这句话告诉我们，古人很喜欢雕刻|这句话告诉我们，只要坚持不懈，再难的事也能做成|这句话告诉我们，做事要量力而行|这句话告诉我们，金石是可以雕刻的|1|横线后应是对“锲而不舍，金石可镂”含义的阐释。
+语文|给下列介绍智能手机的句子排序，最恰当的一项是？①但过度依赖手机也会带来一些问题。②智能手机给我们的生活带来了许多便利。③比如，有的同学沉迷游戏，影响了学习和视力。④因此，我们要合理使用手机。|①②③④|②③①④|②①③④|②①④③|2|先总说便利，再转折指出问题，接着举例，最后得出结论。
+语文|给下列论述古代神话精神的句子排序，最恰当的一项是？①今天，我们仍然能从中汲取前行的力量。②夸父逐日、精卫填海、愚公移山等故事，都表现了先民不屈不挠的意志。③中国古代神话中蕴含着中华民族的精神基因。④这些故事塑造了中华民族自强不息的精神品格。|②③④①|③②④①|②④③①|③④②①|1|先总述神话中的精神，再列举事例，然后总结其塑造精神品格，最后点明意义。
+语文|给下列论述读书意义的句子排序，最恰当的一项是？①读一本好书，就像与一位智者促膝长谈。②好书如同良师益友，陪伴我们成长。③读书能开阔视野，涵养性情。④所以，我们要让读书成为一种生活方式。|①②③④|②③①④|②①③④|②①④③|2|先以“良师益友”作比，再讲“与智者对话”，接着讲作用，最后得出结论。
+语文|填入下面横线处的语句，与上下文衔接最恰当的一项是？黄文秀大学毕业后放弃大城市的工作机会，回到家乡担任驻村第一书记，带领村民脱贫致富，不幸因公殉职。她的事迹感动了无数人，________|她的选择让很多人不理解|大城市的生活条件比家乡好得多|她用自己的青春诠释了共产党员的初心和使命|脱贫攻坚是一项艰巨的任务|2|横线处应承接黄文秀的选择，点明其精神意义。
+语文|给下列叙述学书法经历的句子排序，最恰当的一项是？①从那以后，我每天坚持练习书法。②一天傍晚，我在公园里看到一位老人正在地上写大字。③那遒劲有力的字迹一下子吸引了我。④我走上前去，请老人教我。|②③④①|③②④①|②④③①|④②③①|0|按“看到老人写地书—被吸引—想学—开始练习”的顺序排列。
+语文|给下列介绍中考复习方法的句子排序，最恰当的一项是？①首先要回归课本，夯实基础。②进入初三，同学们都感到了复习的压力。③同时要整理错题，此外还要适当锻炼，保持良好心态。④其实，科学的方法比盲目用功更重要。|②④①③|②④③①|④②①③|②①④③|0|先交代背景，再转折讲方法，然后用“同时”“此外”补充。
+语文|填入下面横线处的句子，使上下文衔接最恰当的一项是？赵州桥是一座石拱桥，它设计精巧，造型优美，________|是我国古代劳动人民建造的|位于河北省赵县|充分体现了我国古代劳动人民的智慧|距今已有几百年的历史|2|横线处应承接“设计精巧，造型优美”，总结其体现的劳动人民智慧。
+语文|下列句子中，没有使用比喻修辞的一项是？|他长得很像他的父亲。|春天像小姑娘，花枝招展的。|那声音仿佛是一首优美的乐曲。|月亮像一个大圆盘挂在天空中。|0|A项是同类比较，不是比喻。
+语文|下列句子中，使用了拟人修辞的一项是？|树叶从树上落下来。|小鸟在枝头唱歌。|他跑得像一阵风。|红的像火，粉的像霞。|1|B项“唱歌”赋予小鸟人的行为，是拟人。
+语文|下列句子中，使用了夸张修辞的一项是？|海内存知己，天涯若比邻。|春眠不觉晓，处处闻啼鸟。|飞流直下三千尺，疑是银河落九天。|两个黄鹂鸣翠柳，一行白鹭上青天。|2|C项“三千尺”“落九天”是夸张。
+语文|下列句子中，使用了排比修辞的一项是？|他像一棵大树，为我们遮风挡雨。|难道我们不应该努力学习吗？|春天来了，小草偷偷地从土里钻出来。|他的品质是那样的纯洁和高尚，他的意志是那样的坚韧和刚强，他的气质是那样的淳朴和谦逊。|3|D项三个结构相同的分句构成排比。
+语文|下列句子中，使用了反问修辞的一项是？|难道这不是我们应该做的吗？|谁是最可爱的人？是我们的战士。|他像一座山。|风儿轻轻地吹着。|0|A项用疑问形式表达肯定意思，是反问。
+语文|下列句子中，使用了设问修辞的一项是？|他的心像湖水一样平静。|什么是幸福？幸福就是为他人付出。|难道你不知道吗？|月亮悄悄地爬上了树梢。|1|B项自问自答，是设问。
+语文|对“山舞银蛇，原驰蜡象”所用修辞手法分析正确的一项是？|拟人、排比|比喻、拟人、对偶|比喻、夸张|对偶、反复|1|“银蛇”“蜡象”是比喻，“舞”“驰”是拟人，上下句对仗是对偶。
+语文|对“盼望着，盼望着，东风来了，春天的脚步近了”所用修辞手法分析正确的一项是？|比喻、排比|夸张、对偶|设问、拟人|反复、拟人|3|“盼望着，盼望着”是反复，“春天的脚步”是拟人。
+语文|下列句子中，修辞手法与其他三项不同的一项是？|他高兴得跳了起来。|他像一只离弦的箭冲了出去。|春风像母亲的手抚摸着你。|那雪白的梨花，像云朵一样。|0|B、C、D三项都是比喻，A项没有使用比喻。
+语文|“无边落木萧萧下，不尽长江滚滚来”所使用的修辞手法是？|排比|反复|设问|对偶|3|上下句字数相同、结构对称，是对偶。
+语文|《朝花夕拾》的作者是？|老舍|巴金|鲁迅|茅盾|2|《朝花夕拾》是鲁迅的散文集。
+语文|下列关于古代典籍的表述，有误的一项是？|《礼记》是儒家经典之一，相传由西汉戴圣编纂。|《孟子》是道家经典著作，由庄子及其弟子编写。|《论语》是儒家经典著作，记录孔子及其弟子的言行。|《庄子》是道家经典著作，作者庄子是战国时期思想家。|1|《孟子》是儒家经典，不是道家著作。
+语文|下列关于《诗经》的表述，有误的一项是？|《诗经》是我国最早的一部诗歌总集，收录了从西周到春秋时期的诗歌305篇。|《诗经》按内容分为风、雅、颂三个部分。|《诗经》中的“风”指宫廷乐歌，“雅”指各地民歌。|《诗经》的主要表现手法是赋、比、兴。|2|“风”指各地民歌，“雅”指宫廷乐歌。
+语文|下列关于史书的表述，有误的一项是？|《资治通鉴》是我国第一部纪传体通史。|司马光，北宋政治家、史学家，主持编纂《资治通鉴》。|司马迁，西汉史学家，著有《史记》，是我国第一部纪传体通史。|《史记》被鲁迅誉为“史家之绝唱，无韵之《离骚》”。|0|《资治通鉴》是我国第一部编年体通史。
+语文|下列关于唐代诗人的表述，有误的一项是？|杜甫，字子美，号少陵野老，唐代现实主义诗人，被誉为“诗圣”。|白居易，字乐天，号香山居士，唐代诗人，倡导新乐府运动。|王维，字摩诘，唐代诗人，被誉为“诗鬼”。|李白，字太白，号青莲居士，唐代浪漫主义诗人，被誉为“诗仙”。|2|王维被誉为“诗佛”，“诗鬼”是李贺。
+语文|下列关于宋代词人的表述，有误的一项是？|柳永，字耆卿，北宋婉约派词人，人称“诗仙”。|苏轼，字子瞻，号东坡居士，北宋文学家，“唐宋八大家”之一。|辛弃疾，字幼安，号稼轩，南宋豪放派词人。|李清照，号易安居士，宋代婉约派词人。|0|柳永人称“白衣卿相”，“诗仙”是李白。
+语文|下列关于鲁迅及其作品的表述，有误的一项是？|《故乡》选自鲁迅的散文集《朝花夕拾》。|鲁迅，原名周树人，字豫才，浙江绍兴人，著有小说集《呐喊》《彷徨》。|《社戏》选自鲁迅的小说集《呐喊》。|《阿长与〈山海经〉》选自鲁迅的散文集《朝花夕拾》。|0|《故乡》选自小说集《呐喊》，不是《朝花夕拾》。
+语文|下列关于现代作家的表述，有误的一项是？|朱自清，现代散文家、诗人，代表作有《背影》《荷塘月色》。|冰心，原名谢婉莹，代表作有诗集《繁星》《春水》。|沈从文，现代作家，代表作有《边城》《朝花夕拾》。|老舍，原名舒庆春，字舍予，北京人，代表作有《骆驼祥子》《茶馆》。|2|《朝花夕拾》是鲁迅的作品，不是沈从文的。
+语文|下列关于古代年龄称谓的表述，有误的一项是？|“总角”指儿童时代，“垂髫”指儿童，“加冠”指男子二十岁。|“花甲”指六十岁，“古稀”指七十岁，“耄耋”指八九十岁。|“及笄”指男子十五岁，“豆蔻”指女子十三四岁。|古人以“弱冠”指男子二十岁，“而立”指三十岁，“不惑”指四十岁。|2|“及笄”指女子十五岁。
+语文|下列关于古代文化词语的表述，有误的一项是？|“烽火”代指战争，“汗青”代指史册，“婵娟”代指月亮。|“布衣”代指富商，“朱门”代指贫苦人家。|古人以“桑梓”代指家乡，“桃李”代指学生，“丝竹”代指音乐。|“社稷”代指国家，“手足”代指兄弟，“巾帼”代指女子。|1|“布衣”代指平民，“朱门”代指富贵人家。
+语文|下列关于传统节日的表述，有误的一项是？|端午节有吃粽子、赛龙舟的习俗，相传与纪念屈原有关。|春节、元宵节、清明节、端午节、中秋节都是我国传统节日。|重阳节有登高、插茱萸的习俗，农历八月十五。|中秋节有赏月、吃月饼的习俗，寓意团圆。|2|重阳节是农历九月初九。
+语文|下列关于史书体例的表述，有误的一项是？|《左传》是我国第一部叙事详细的编年体史书，相传为左丘明所作。|《汉书》是我国第一部纪传体断代史，作者是班固。|《史记》是我国第一部纪传体通史，作者是东汉班固。|《战国策》是西汉刘向整理编辑的国别体史书。|2|《史记》的作者是西汉司马迁。
+语文|下列关于古代文学家的表述，有误的一项是？|欧阳修，唐代文学家，字永叔，号醉翁，是“唐宋八大家”之一。|刘禹锡，唐代文学家，字梦得，有“诗豪”之称，代表作有《陋室铭》。|陶渊明，东晋诗人，字元亮，号五柳先生，代表作有《桃花源记》《归园田居》。|周敦颐，北宋哲学家，字茂叔，代表作有《爱莲说》。|0|欧阳修是北宋文学家。
+语文|下列关于儒家经典的表述，有误的一项是？|“五经”指《诗》《书》《礼》《易》《春秋》。|《春秋》是道家经典著作。|《诗经》中的“颂”是宗庙祭祀的乐歌。|《论语》与《大学》《中庸》《孟子》合称“四书”。|1|《春秋》是儒家经典。
+语文|下列关于外国作家的表述，有误的一项是？|雨果，法国作家，代表作有《巴黎圣母院》《悲惨世界》。|契诃夫，俄国作家，代表作有《变色龙》《装在套子里的人》。|都德，英国作家，代表作有《最后一课》。|莫泊桑，法国作家，代表作有《项链》《我的叔叔于勒》。|2|都德是法国作家。
+语文|下列关于古典小说名著的表述，有误的一项是？|《红楼梦》作者曹雪芹，清代小说家，该书又名《聊斋志异》。|《西游记》作者吴承恩，明代小说家。|《三国演义》作者罗贯中，元末明初小说家。|《水浒传》作者施耐庵，元末明初小说家。|0|《红楼梦》又名《石头记》，《聊斋志异》是蒲松龄的作品。
+语文|下列关于诗歌体裁的表述，有误的一项是？|律诗通常每首八句，每两句成一联，依次为首联、颔联、颈联、尾联。|《天净沙·秋思》中“天净沙”是题目，“秋思”是词牌名。|绝句每首四句，有五绝和七绝之分。|律诗中间两联要求对仗。|1|《天净沙·秋思》中“天净沙”是曲牌名，“秋思”是题目。
+语文|下列关于《木兰诗》的表述，有误的一项是？|《木兰诗》是南北朝时期北方的一首乐府民歌。|《木兰诗》是一首唐代文人创作的七言律诗。|《木兰诗》与《孔雀东南飞》并称“乐府双璧”。|《木兰诗》选自北宋郭茂倩编的《乐府诗集》。|1|《木兰诗》是南北朝乐府民歌，不是唐代七言律诗。
+语文|下列关于古代文化常识的表述，有误的一项是？|古代兄弟排行以“伯、仲、叔、季”为序。|“总角”指儿童时代，“垂髫”指儿童，“加冠”指男子二十岁。|古代音乐分为“宫、商、角、徵、羽”五音。|“谥号”是古代帝王、大臣死后朝廷给予的称号，如“文正”；“庙号”是皇帝在位时的自称。|3|庙号是帝王死后在太庙立室奉祀的名号，不是在位时的自称。
+语文|下列关于清代小说的表述，有误的一项是？|《世说新语》是清代刘义庆组织编写的一部志人小说集。|《红楼梦》是清代曹雪芹所著的一部长篇小说，又名《石头记》。|《聊斋志异》是清代蒲松龄所著的一部文言短篇小说集。|《儒林外史》是清代吴敬梓所著的一部长篇讽刺小说。|0|《世说新语》是南朝宋刘义庆组织编写的志人小说集，不是清代作品。
+语文|“沉舟侧畔千帆过，________。”横线处应填？|今日听君歌一曲|怀旧空吟闻笛赋|病树前头万木春|巴山楚水凄凉地|2|出自刘禹锡《酬乐天扬州初逢席上见赠》。
+语文|“________，一览众山小。”横线处应填？|会当凌绝顶|决眦入归鸟|造化钟神秀|荡胸生曾云|0|出自杜甫《望岳》。
+语文|“海日生残夜，________。”横线处应填？|乡书何处达|潮平两岸阔|江春入旧年|风正一帆悬|2|出自王湾《次北固山下》。
+语文|“________，直挂云帆济沧海。”横线处应填？|欲渡黄河冰塞川|停杯投箸不能食|闲来垂钓碧溪上|长风破浪会有时|3|出自李白《行路难》。
+语文|“出淤泥而不染，________。”横线处应填？|濯清涟而不妖|千锤万凿出深山|烈火焚烧若等闲|要留清白在人间|0|出自周敦颐《爱莲说》。
+语文|“________，奉命于危难之间。”横线处应填？|先帝不以臣卑鄙|受任于败军之际|苟全性命于乱世|不求闻达于诸侯|1|出自诸葛亮《出师表》。
+语文|“先天下之忧而忧，________。”横线处应填？|位卑未敢忘忧国|尚思为国戍轮台|后天下之乐而乐|僵卧孤村不自哀|2|出自范仲淹《岳阳楼记》。
+语文|“________，西北望，射天狼。”横线处应填？|老夫聊发少年狂|会挽雕弓如满月|酒酣胸胆尚开张|亲射虎，看孙郎|1|出自苏轼《江城子·密州出猎》。
+语文|“但愿人长久，________。”横线处应填？|千里共婵娟|月有阴晴圆缺|此事古难全|人有悲欢离合|0|出自苏轼《水调歌头·明月几时有》。
+语文|“________，风正一帆悬。”横线处应填？|潮平两岸阔|客路青山外|行舟绿水前|海日生残夜|0|出自王湾《次北固山下》。
+语文|“山重水复疑无路，________。”横线处应填？|箫鼓追随春社近|柳暗花明又一村|莫笑农家腊酒浑|丰年留客足鸡豚|1|出自陆游《游山西村》。
+语文|“________，化作春泥更护花。”横线处应填？|浩荡离愁白日斜|落红不是无情物|吟鞭东指即天涯|我劝天公重抖擞|1|出自龚自珍《己亥杂诗》。
+语文|“人生自古谁无死？________。”横线处应填？|惶恐滩头说惶恐|身世浮沉雨打萍|山河破碎风飘絮|留取丹心照汗青|3|出自文天祥《过零丁洋》。
+语文|“________，不亦君子乎？”横线处应填？|学而时习之|人不知而不愠|温故而知新|有朋自远方来|1|出自《论语·学而》。
+语文|“苔痕上阶绿，________。”横线处应填？|谈笑有鸿儒|草色入帘青|往来无白丁|斯是陋室|1|出自刘禹锡《陋室铭》。
+语文|“________，讲信修睦。”横线处应填？|老有所终|选贤与能|天下为公|幼有所长|1|出自《礼记·礼运》。
+语文|“烽火连三月，________。”横线处应填？|国破山河在|家书抵万金|感时花溅泪|城春草木深|1|出自杜甫《春望》。
+语文|“________，处江湖之远则忧其君。”横线处应填？|居庙堂之高则忧其民|不以物喜|先天下之忧而忧|后天下之乐而乐|0|出自范仲淹《岳阳楼记》。
+语文|“________，雪上空留马行处。”横线处应填？|轮台东门送君去|去时雪满天山路|山回路转不见君|纷纷暮雪下辕门|2|出自岑参《白雪歌送武判官归京》。
+语文|“________，清风半夜鸣蝉。”横线处应填？|明月别枝惊鹊|七八个星天外|稻花香里说丰年|听取蛙声一片|0|出自辛弃疾《西江月·夜行黄沙道中》。
+语文|“大漠孤烟直，________。”横线处应填？|归雁入胡天|征蓬出汉塞|长河落日圆|萧关逢候骑|2|出自王维《使至塞上》。
+语文|《爱莲说》中比喻君子不同流合污的句子是？|菊，花之隐逸者也|香远益清，亭亭净植|中通外直，不蔓不枝|出淤泥而不染，濯清涟而不妖|3|“出淤泥而不染”比喻君子不与世俗同流合污。
+语文|《岳阳楼记》中表达作者远大政治抱负的句子是？|居庙堂之高则忧其民|不以物喜，不以己悲|微斯人，吾谁与归|先天下之忧而忧，后天下之乐而乐|3|这两句表现了范仲淹“先忧后乐”的政治抱负。
+语文|《行路难》中表现诗人乐观自信、对理想执着追求的句子是？|长风破浪会有时，直挂云帆济沧海|欲渡黄河冰塞川，将登太行雪满山|闲来垂钓碧溪上，忽复乘舟梦日边|停杯投箸不能食，拔剑四顾心茫然|0|这两句表现了李白乐观自信、执着追求理想的精神。
+语文|《酬乐天扬州初逢席上见赠》中蕴含新事物必将取代旧事物哲理的句子是？|沉舟侧畔千帆过，病树前头万木春|怀旧空吟闻笛赋，到乡翻似烂柯人|巴山楚水凄凉地，二十三年弃置身|今日听君歌一曲，暂凭杯酒长精神|0|这两句蕴含新事物必将取代旧事物的哲理。
+语文|《春望》中以花鸟拟人、抒发感时伤别之情的句子是？|感时花溅泪，恨别鸟惊心|烽火连三月，家书抵万金|国破山河在，城春草木深|白头搔更短，浑欲不胜簪|0|诗人移情于物，以花鸟拟人，抒发感时伤别之情。
+语文|下列句中“之”的用法与“予独爱莲之出淤泥而不染”相同的一项是？|何陋之有|甚矣，汝之不惠|水陆草木之花|辍耕之垄上|1|例句中的“之”用于主谓之间，取消句子独立性；“甚矣，汝之不惠”中的“之”用法相同。
+语文|下列句中“以”的意义和用法与“以刀劈狼首”相同的一项是？|以塞忠谏之路也|以中有足乐者|以钱覆其口|可以一战|2|例句中的“以”是“用”的意思，“以钱覆其口”中的“以”也是“用”。
+语文|下列句中“而”表转折的一项是？|温故而知新|学而时习之|人不知而不愠|博学而笃志|2|“人不知而不愠”中的“而”表转折。
+语文|下列句中“于”的意义与“受任于败军之际”相同的一项是？|每假借于藏书之家|万钟于我何加焉|重于泰山|苟全性命于乱世|3|例句中的“于”是“在”的意思，“苟全性命于乱世”中的“于”也是“在”。
+语文|下列句中“为”的读音和意义与“乡为身死而不受”相同的一项是？|为人谋而不忠乎|岂能为暴涨携之去|中峨冠而多髯者为东坡|为宫室之美|3|例句中的“为”读wèi，意为“为了”，“为宫室之美”中的“为”用法相同。
+语文|下列句中“许”的意思与“潭中鱼可百许头”相同的一项是？|高可二黍许|先生不知何许人也|遂许先帝以驱驰|杂然相许|0|例句中的“许”表示约数，“高可二黍许”中的“许”也是约数。
+语文|下列句中“亡”的意思与“今亡亦死”相同的一项是？|亡羊补牢|广故数言欲亡|出则无敌国外患者，国恒亡|河曲智叟亡以应|1|例句中的“亡”是“逃跑”的意思，“广故数言欲亡”中的“亡”也是“逃跑”。
+语文|下列句中“顾”的意思与“三顾臣于草庐之中”相同的一项是？|顾野有麦场|元方入门不顾|将军宜枉驾顾之|顾不如蜀鄙之僧哉|2|例句中的“顾”是“拜访”的意思，“将军宜枉驾顾之”中的“顾”也是“拜访”。
+语文|下列句中“间”的读音与其他三项不同的一项是？|时时而间进|奉命于危难之间|又间令吴广之次所旁丛祠中|遂与外人间隔|1|“间”在“奉命于危难之间”中读jiān，其余三项均读jiàn。
+语文|下列句中“策”的意思与“策之不以其道”相同的一项是？|策马奔腾|策勋十二转|束手无策|执策而临之|0|例句中的“策”是“用鞭子打”的意思，“策马奔腾”中的“策”也是“鞭打”。
+语文|下列句中“具”的意思与“此人一一为具言所闻”相同的一项是？|百废具兴|各具情态|具以情告|故人具鸡黍|2|例句中的“具”是“详细”的意思，“具以情告”中的“具”也是“详细”。
+语文|下列句中“比”的意思与“比至陈”相同的一项是？|比其反也|其两膝相比者|天涯若比邻|鳞次栉比|0|例句中的“比”是“等到”的意思，“比其反也”中的“比”也是“等到”。
+语文|下列句中“则”表假设的一项是？|余则缊袍敝衣处其间|学而不思则罔|入则无法家拂士|此则岳阳楼之大观也|2|“入则无法家拂士”中的“则”表假设，相当于“如果”。
+语文|下列句中“去”的意思与“去国怀乡”相同的一项是？|委而去之|去死肌，杀三虫|日始出时去人近|西蜀之去南海|0|例句中的“去”是“离开”的意思，“委而去之”中的“去”也是“离开”。
+语文|下列句中“期”的意思与“陈太丘与友期行”相同的一项是？|期年之后|不期而遇|期待|过期|1|例句中的“期”是“约定”的意思，“不期而遇”中的“期”也是“约定”。
+语文|下列句中括号内词语古今意义相同的一项是？|良田美池桑竹之属（良田）|率妻子邑人来此绝境（绝境）|便扶向路（扶）|诣太守（诣）|0|“良田”古今意义相同，其余三项均为古今异义。
+语文|下列各句中，括号内词古今意义相同的一项是？|阡陌交通（交通）|无论魏晋（无论）|率妻子邑人（妻子）|怡然自乐（怡然）|3|“怡然”古今意义相同，其余三项均为古今异义。
+语文|下列句中括号内词类活用类型与其他三项不同的一项是？|其一犬坐于前（犬）|策之不以其道（策）|山行六七里（山）|斗折蛇行（斗、蛇）|1|B项“策”是名词作动词，其余三项都是名词作状语。
+语文|下列句中括号内词属于名词作动词的一项是？|横柯上蔽（上）|箕畚运于渤海之尾（箕畚）|腰白玉之环（腰）|手自笔录（手）|2|C项“腰”是名词作动词，意为“腰佩”。
+语文|下列句中“然”的意思与“然侍卫之臣不懈于内”相同的一项是？|然则何时而乐耶|屋舍俨然|吴广以为然|然志犹未已|3|例句中的“然”表转折，“然志犹未已”中的“然”也是转折。
+语文|下列句子朗读停顿正确的一项是？|盖简桃核修狭者/为/之|盖/简桃核修狭者/为之|盖简桃核/修狭者为之|盖简/桃核修狭者/为之|1|正确的停顿为“盖/简桃核修狭者/为之”。
+语文|下列句子朗读停顿恰当的一项是？|其一/犬坐于前|其一犬/坐于前|其一犬坐/于前|其/一犬坐于前|0|正确的停顿为“其一/犬坐于前”。
+语文|下列句子朗读停顿正确的一组是？|中/峨冠而多髯/者为东坡|中/峨冠而多髯者/为东坡|中峨冠/而多髯者为东坡|中峨冠而多髯者/为/东坡|1|正确的停顿为“中/峨冠而多髯者/为东坡”。
+语文|下列句子朗读停顿划分正确的一项是？|食马者不知/其能千里而食也|食马者/不知/其能千里而食也|食马者不知其/能千里/而食也|食马者/不知其能千里/而食也|3|正确的停顿为“食马者/不知其能千里/而食也”。
+语文|“斯是陋室，惟吾德馨”翻译正确的一项是？|这是简陋的屋子，只有我的品德是香的。|这是简陋的屋子，只是我的德行很好闻。|这是破旧的房子，只有我住着才香。|这是简陋的屋子，只因我品德高尚就不感到简陋了。|3|“斯”是“这”，“惟”是“只”，“德馨”指品德高尚。
+语文|“不以物喜，不以己悲”翻译正确的一项是？|不因外物的好坏和自己的得失而或喜或悲。|不因为物质而高兴，不因为自己而悲伤。|不把外物当作喜事，不把自己的悲伤放在心上。|不拿外物来欢喜，不拿自己来悲伤。|0|“以”是“因为”，“物”“己”分别指外物和个人得失。
+语文|“黄发垂髫，并怡然自乐”翻译正确的一项是？|老人和小孩，一起快乐地玩耍。|头发黄的人和精神不振的人，都很快乐。|黄头发和垂下的头发，都很愉快。|老人和小孩，都安适愉快，自得其乐。|3|“黄发”指老人，“垂髫”指小孩，“怡然”指安适愉快。
+语文|“苔痕上阶绿，草色入帘青”翻译正确的一项是？|苔痕爬上台阶，草色进入帘子。|苔藓的痕迹在台阶上绿了，草的颜色进入帘子青了。|苔痕长到台阶上，一片碧绿；草色映入帘内，满眼青翠。|绿色的苔痕在台阶上，青色的草在帘子外。|2|“上”是“长到……上”，“入”是“映入”。
+语文|“虽乘奔御风，不以疾也”翻译正确的一项是？|虽然乘着飞奔的车、驾着风，也不如它快。|虽然骑着奔马、驾着风，也不算快。|即使骑着飞奔的马、驾着疾风，也没有这么快。|即使乘坐奔马、抵御大风，也不觉得快。|2|“虽”是“即使”，“奔”指飞奔的马，“疾”是“快”。
+语文|“醉翁之意不在酒，在乎山水之间也”翻译正确的一项是？|醉翁喝醉了，心意不在酒上，而在山水之间。|醉翁的意思不是酒，而是在山水之间。|醉翁的想法不在酒，而在乎山和水。|醉翁的情趣不在于喝酒，而在于山水之间。|3|“意”是“情趣”，“在乎”是“在于”。
+语文|《朝花夕拾》中，鲁迅回忆童年保姆的文章是？|《藤野先生》|《从百草园到三味书屋》|《阿长与〈山海经〉》|《范爱农》|2|《阿长与〈山海经〉》回忆了保姆阿长。
+语文|《朝花夕拾》中，鲁迅在日本留学时的老师是？|章太炎|寿镜吾|范爱农|藤野先生|3|《藤野先生》回忆了作者在日本仙台学医时的老师藤野先生。
+语文|《西游记》中，孙悟空的第一个师父是？|唐僧|菩提祖师|如来佛祖|太上老君|1|孙悟空的第一个师父是菩提祖师。
+语文|《西游记》中，猪八戒的法名是？|沙悟净|猪八戒|孙悟空|猪悟能|3|猪八戒的法名是猪悟能。
+语文|《西游记》中，“三打白骨精”故事里，白骨精先后变化为？|老妇、村姑、老翁|老翁、村姑、老妇|村姑、老翁、老妇|村姑、老妇、老翁|3|白骨精先后变作村姑、老妇、老翁。
+语文|《骆驼祥子》的作者是？|鲁迅|巴金|茅盾|老舍|3|《骆驼祥子》的作者是老舍。
+语文|《骆驼祥子》中，祥子的梦想是？|离开北平|开一家车厂|拥有一辆自己的洋车|娶小福子|2|祥子的梦想是拥有一辆自己的洋车。
+语文|《骆驼祥子》中，祥子最后心爱的女人是？|高妈|小福子|虎妞|杨太太|1|祥子最后心爱的女人是小福子。
+语文|《红星照耀中国》的作者是？|史沫特莱|斯特朗|埃德加·斯诺|白求恩|2|《红星照耀中国》的作者是埃德加·斯诺。
+语文|《红星照耀中国》一书的中译本又名？|《长征》|《中国游记》|《西行漫记》|《红星》|2|《红星照耀中国》的中译本又名《西行漫记》。
+语文|《水浒传》中，梁山寨主先后顺序正确的一项是？|晁盖、宋江、王伦|王伦、宋江、晁盖|王伦、晁盖、宋江|晁盖、王伦、宋江|2|梁山寨主先后为王伦、晁盖、宋江。
+语文|《水浒传》中，“倒拔垂杨柳”的是？|武松|林冲|鲁智深|李逵|2|“倒拔垂杨柳”的是鲁智深。
+语文|《水浒传》中，“智取生辰纲”的策划者是？|吴用|晁盖|公孙胜|宋江|0|“智取生辰纲”的策划者是吴用。
+语文|《儒林外史》的作者是？|吴敬梓|曹雪芹|蒲松龄|吴承恩|0|《儒林外史》的作者是吴敬梓。
+语文|《儒林外史》中，因中举而发疯的人物是？|严监生|匡超人|范进|周进|2|因中举而发疯的是范进。
+语文|《儒林外史》中，临死前因点两根灯草而不肯咽气的人物是？|严监生|范进|杜少卿|周进|0|临死前因点两根灯草而不肯咽气的是严监生。
+语文|《简·爱》的作者是？|艾米莉·勃朗特|简·奥斯汀|安妮·勃朗特|夏洛蒂·勃朗特|3|《简·爱》的作者是夏洛蒂·勃朗特。
+语文|《简·爱》中，简·爱最终回到谁身边？|里德太太|圣约翰|海伦|罗切斯特|3|简·爱最终回到罗切斯特身边。
+语文|《简·爱》中，简·爱在洛伍德学校的好友是？|英格拉姆小姐|里德太太|海伦·彭斯|谭波尔小姐|2|简·爱在洛伍德学校的好友是海伦·彭斯。
+语文|下列关于《西游记》的表述，有误的一项是？|孙悟空因大闹天宫被如来佛祖压在五行山下五百年。|猪八戒原是天上的卷帘大将，因失手打碎琉璃盏被贬下凡。|孙悟空是从花果山的一块仙石中迸裂而生的。|唐僧师徒取经共经历了九九八十一难。|1|猪八戒原是天蓬元帅，卷帘大将是沙僧。
+语文|下列关于《朝花夕拾》的表述，有误的一项是？|《朝花夕拾》原名《旧事重提》，是鲁迅的散文集。|《五猖会》中，父亲强迫鲁迅背《鉴略》，使他看会的心情全没了。|《藤野先生》中，鲁迅回忆藤野先生对他关怀备至，他因此决定弃医从文。|《二十四孝图》中，鲁迅对“老莱娱亲”“郭巨埋儿”等故事进行了批判。|2|鲁迅弃医从文是因为匿名信事件和看电影事件，不是因为藤野先生的关怀。
+语文|下列关于《骆驼祥子》的表述，有误的一项是？|虎妞是车厂主刘四爷的女儿，她后来为祥子生下了一个儿子，一家人过上了幸福生活。|祥子来自农村，来到北平后以拉车为生。|祥子的车被大兵抢走后，他牵回三匹骆驼，因此得了“骆驼祥子”的外号。|祥子省吃俭用，用了三年时间买上了自己的第一辆车。|0|虎妞难产而死，祥子最终堕落，并没有过上幸福生活。
+语文|学校开展“孝亲敬老”活动，下列宣传标语最恰当的一项是？|今天你敬老了吗？不敬老就滚出去|谁不敬老，谁就是畜生|敬老只是老年人的事|孝亲敬老，从我做起|3|标语应简洁、正面、有号召力。
+语文|下列情境中，语言表达最得体的一项是？|你对老师说：“老师，这道题我不会，您能给我讲讲吗？”|你对老师说：“喂，这题怎么做的？”|你对长辈说：“您老人家懂什么？”|你对同学说：“你讲的都是废话，别说了。”|0|对老师说话应使用敬语，语气委婉。
+语文|给“世界读书日”活动拟写标语，下列最恰当的一项是？|多读书就能考上清华|读书是唯一出路|读书无用，不如赚钱|书香浸润心灵，阅读点亮人生|3|标语应紧扣阅读主题，语言凝练。
+语文|班级开展“走进传统节日”活动，下列做法不合适的一项是？|搜集与传统节日有关的诗词。|在网络上编造节日传说，吸引眼球。|在清明节组织同学到烈士陵园扫墓。|了解端午节的来历和习俗。|1|编造传说违背了尊重事实的原则。
+语文|下列对“低碳生活”的理解，不正确的一项是？|低碳生活意味着要降低生活品质，过苦日子。|低碳生活要从身边小事做起，如随手关灯。|低碳生活有利于保护环境。|低碳生活就是尽量减少能源消耗。|0|低碳生活是减少能耗，并非降低生活品质。
+语文|同学小明沉迷手机游戏，你劝说他，最恰当的一项是？|你再玩游戏，我就告诉老师。|小明，玩手机游戏要适度，长时间玩会影响学习和视力，我们一起制定个计划吧。|游戏有什么好玩的，你真没出息！|你这样下去就完了，谁也救不了你！|1|劝说应尊重对方，指出危害并提出可行建议。
+语文|给老师写请假条，下列格式或内容正确的一项是？|请假条可以直接写“老师，我有事，不来上课了”，不用署名。|请假条不需要写请假原因。|请假条开头写“尊敬的老师”，结尾署名并注明日期。|请假条应写在信封上。|2|请假条应有称呼、正文、署名和日期。
+语文|为“节约粮食”主题活动设计一项活动，下列最合适的一项是？|组织同学到饭店吃大餐。|举办“谁吃得最多”比赛。|开展“光盘行动”，评选“节约小标兵”。|统计全校同学每天的零花钱。|2|“光盘行动”紧扣节约粮食的主题。

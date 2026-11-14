@@ -1,0 +1,18 @@
+# 构建产物
+build/
+out/
+*.apk
+*.idsig
+*.keystore
+*.jks
+
+# 本机 adb 私钥与设备信息（绝对不要提交）
+.adbhome/
+
+# 系统杂物
+.DS_Store
+Thumbs.db
+*.swp
+
+# 本机电视 IP（不入库）
+scripts/.tv-ip

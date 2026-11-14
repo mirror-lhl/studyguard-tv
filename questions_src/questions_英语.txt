@@ -1,0 +1,200 @@
+英语|My father ___ to work by subway every day.|goes|went|gone|go|0|一般现在时，主语 My father 是第三人称单数，谓语用 goes。
+英语|The students in Class Two ___ football after school on Fridays.|playing|play|plays|has played|1|一般现在时，主语 The students 是复数，谓语用 play。
+英语|Neither my sister nor I ___ interested in watching horror films.|is|are|be|am|3|neither...nor 结构遵循就近原则，靠近的主语 I 与 am 搭配。
+英语|Each of the students ___ a dictionary in the exam.|has|are having|were having|have|0|each of 作主语时谓语用单数，故用 has。
+英语|There ___ a book and two pens on the desk.|is|are|have|has|0|There be 句型遵循就近原则，靠近的 a book 为单数，用 is。
+英语|Look! The children ___ happily in the playground.|have played|play|played|are playing|3|Look 提示动作正在进行，主语为复数，用 are playing。
+英语|Listen! Someone ___ the piano in the next room.|has played|plays|played|is playing|3|Listen 提示动作正在进行，someone 作主语，用 is playing。
+英语|My mother usually ___ up at six, but this morning she ___ up at seven.|gets; got|got; gets|gets; gets|got; got|0|usually 对应一般现在时，this morning 表示过去，故用 gets; got。
+英语|He ___ to Beijing last summer and ___ many places of interest.|goes; visits|went; visited|has gone; has visited|went; visits|1|last summer 表示过去，两个并列动作都用一般过去时。
+英语|When I was a child, I ___ swimming in the river every summer.|going|go|went|have gone|2|when 从句表明过去时间，every summer 表示过去习惯，用 went。
+英语|We ___ a wonderful time at the party last night.|are having|have|had|have had|2|last night 是明确的过去时间，用一般过去时 had。
+英语|—Where is Tom? —He ___ to the library. He will be back soon.|would go|has gone|has been|had gone|1|has gone to 表示去了某地尚未返回，符合语境。
+英语|I ___ this book twice so far, so I know the story well.|was reading|had read|read|have read|3|so far 常与现在完成时连用，表示到目前为止的经历。
+英语|By the end of last term, we ___ over 1,000 English words.|learn|learned|have learned|had learned|3|by the end of last term 表示过去某时之前，用过去完成时。
+英语|By the time I got to the station, the train ___.|leaves|had left|left|has left|1|by the time 从句为一般过去时，主句动作更早发生，用过去完成时。
+英语|He told me that he ___ the film the day before.|saw|has seen|had seen|sees|2|主句为过去时，the day before 表示更早的过去，用过去完成时。
+英语|She said she ___ to Shanghai the next week.|goes|will go|would go|has gone|2|主句为过去时，宾语从句表示将来用 would go。
+英语|If it ___ tomorrow, we will stay at home.|rained|is raining|rains|will rain|2|if 引导的条件状语从句用一般现在时表示将来。
+英语|I will call you as soon as I ___ at the airport.|am arriving|arrive|will arrive|arrived|1|as soon as 引导的时间状语从句用一般现在时表示将来。
+英语|—Have you finished your homework? —Yes, I ___ it an hour ago.|had finished|finish|finished|have finished|2|an hour ago 是明确的过去时间，用一般过去时 finished。
+英语|The old man ___ in this village since he was born.|has lived|had lived|lives|lived|0|since 引导的时间状语常与现在完成时连用。
+英语|—How long ___ you ___ this bike? —For three years.|will; buy|have; bought|did; buy|have; had|3|How long 询问持续时间，buy 是短暂动词，需用 have had。
+英语|My grandfather ___ for two years.|was dead|died|has died|has been dead|3|for two years 表示持续状态，die 是短暂动词，用 has been dead。
+英语|It ___ ten years since we moved to this city.|was|has|had|is|3|It is + 时间段 + since 从句，表示“自从……已多久”。
+英语|The meeting ___ for half an hour when I arrived.|has begun|had been on|had begun|began|1|for half an hour 表示持续，begin 为短暂动词，用 had been on。
+英语|Look at the dark clouds. It ___.|rains|is going to rain|rained|has rained|1|根据乌云这一迹象判断即将下雨，用 be going to。
+英语|Don't worry. I ___ you with your math this evening.|helped|will help|have helped|help|1|this evening 表示将来，用一般将来时 will help。
+英语|The bus ___ at seven tomorrow morning.|has left|was leaving|leaves|left|2|按时刻表发生的将来动作常用一般现在时，故用 leaves。
+英语|While my mother ___ dinner, I was doing my homework.|cooks|cooked|was cooking|has cooked|2|while 引导的从句表示过去正在进行的动作，用过去进行时。
+英语|At nine last night, I ___ TV in the living room when the phone rang.|watched|was watching|have watched|watch|1|at nine last night 表示过去某一时刻，when the phone rang 表示动作被打断，用过去进行时。
+英语|They ___ basketball when it suddenly began to rain.|were playing|have played|play|played|0|when 从句表示突然发生的动作，主句表示当时正在进行，用过去进行时。
+英语|I ___ my keys on my way home yesterday.|losing|lose|lost|will lose|2|yesterday 表示过去，lose 是短暂动作，用一般过去时 lost。
+英语|She ___ in the garden at this time yesterday.|has worked|works|worked|was working|3|at this time yesterday 表示过去某一时刻，用过去进行时。
+英语|The students ___ about the trip when the teacher came in. They didn't notice her at all.|talked|were talking|have talked|talk|1|when 从句表示过去某一时刻，主句表示当时正在进行，用过去进行时。
+英语|By the time he wrote the report, he ___ the book three times.|has read|reads|had read|read|2|by the time 从句为一般过去时，主句动作更早发生，用过去完成时。
+英语|By the time the teacher came in, the students ___ the classroom.|have cleaned|clean|had cleaned|cleaned|2|by the time 从句为一般过去时，主句动作更早发生，用过去完成时。
+英语|When we arrived, the concert ___ for ten minutes.|began|had begun|had been on|has been on|2|for ten minutes 表示持续，begin 为短暂动词，用 had been on。
+英语|By the time he was ten, he ___ over 500 English words.|learns|has learned|had learned|learned|2|by the time 从句为一般过去时，主句动作更早发生，用过去完成时。
+英语|The film ___ by the time I got to the cinema.|has begun|begins|had begun|begun|2|by the time 从句为一般过去时，主句动作更早发生，用过去完成时。
+英语|—Why didn't you answer my call? —Sorry, I ___ a shower.|took|was taking|have taken|take|1|问句为过去时，答语表示当时正在洗澡，用过去进行时。
+英语|The new library ___ next year.|is built|will be built|has been built|builds|1|next year 表示将来，library 与 build 是被动关系，用一般将来时的被动语态。
+英语|English ___ in many countries around the world.|is spoken|spoke|is speaking|speaks|0|English 与 speak 是被动关系，表示普遍事实用一般现在时的被动语态。
+英语|The bridge ___ by the workers last year.|is built|builds|built|was built|3|last year 表示过去，bridge 与 build 是被动关系，用一般过去时的被动语态。
+英语|A new hospital ___ in our town now.|has built|builds|is building|is being built|3|now 表示正在发生，hospital 与 build 是被动关系，用现在进行时的被动语态。
+英语|These trees ___ by the students every spring.|are planted|planted|are planting|plant|0|every spring 表示经常性动作，trees 与 plant 是被动关系，用一般现在时的被动语态。
+英语|The homework ___ before class tomorrow.|must finish|must be finished|must have finished|finishes|1|homework 与 finish 是被动关系，情态动词 must 后接 be done。
+英语|The boy ___ by his parents to look after his little sister yesterday.|was asked|is asked|asks|asked|0|yesterday 表示过去，由 by his parents 可知 boy 与 ask 是被动关系，用一般过去时的被动语态。
+英语|—Who ___ the window? —It was broken by Tom.|broke|was broken|is broken|breaks|0|答语 It was broken by Tom 表明问的是谁打破了窗户，用主动语态 broke。
+英语|The old bridge ___ next month.|repairs|is going to repair|is going to be repaired|will repair|2|next month 表示将来，bridge 与 repair 是被动关系，用 be going to 的被动语态。
+英语|Much attention ___ to the problem at the meeting yesterday.|paid|was paid|pays|is paid|1|attention 与 pay 是被动关系，yesterday 表示过去，用一般过去时的被动语态。
+英语|The room ___ by my sister every day.|is cleaning|cleans|is cleaned|cleaned|2|every day 表示经常性动作，room 与 clean 是被动关系，用一般现在时的被动语态。
+英语|The flowers ___ if you forget to water them.|will die|will be died|are died|have died|0|die 是不及物动词，没有被动语态，条件句主句用一般将来时 will die。
+英语|He ___ to play the piano when he was five.|was taught|teaches|is taught|taught|0|when he was five 表示过去，he 与 teach 是被动关系，用一般过去时的被动语态。
+英语|The book ___ well nowadays and many people like it.|sells|is sold|sold|selling|0|sell 表示“畅销”时用主动语态，主语 book 为单数，用 sells。
+英语|The sports meeting ___ next Monday because of the rain.|is putting off|puts off|will put off|will be put off|3|next Monday 表示将来，sports meeting 与 put off 是被动关系，用一般将来时的被动语态。
+英语|The trees ___ by the farmers last week.|have cut down|cut down|were cut down|are cut down|2|last week 表示过去，trees 与 cut down 是被动关系，用一般过去时的被动语态。
+英语|—Must I hand in the report today? —No, it ___ before Friday.|can hand in|can be handed in|must be handed in|must hand in|1|report 与 hand in 是被动关系，情态动词 can 后接 be done。
+英语|The little girl ___ by her grandmother at home.|is looked after|looked after|is looking after|looks after|0|little girl 与 look after 是被动关系，用一般现在时的被动语态。
+英语|A lot of trees ___ in our city in the past few years.|have been planted|planted|are planting|have planted|0|in the past few years 常与现在完成时连用，trees 与 plant 是被动关系。
+英语|The problem ___ at the meeting now.|is discussing|is being discussed|discusses|has discussed|1|now 表示正在发生，problem 与 discuss 是被动关系，用现在进行时的被动语态。
+英语|I'm sure you ___ be tired after the long trip.|can't|needn't|mustn't|must|3|表示肯定推测用 must be，意为“一定”。
+英语|—Could I borrow your pen? —Of course you ___.|must|need|could|can|3|答应对方请求时用 can，表示许可。
+英语|You ___ return the book today. You can keep it for another week.|can't|couldn't|needn't|mustn't|2|由“可以再借一周”可知没有必要今天还书，用 needn't。
+英语|You ___ be careful when you cross the street.|mustn't|can't|must|need|2|表示必须、应当做某事，用 must。
+英语|He ___ swim when he was only five.|can|could|must|may|1|when he was five 表示过去的能力，用 could。
+英语|The dictionary ___ be Tom's. It has Mary's name on it.|may|can't|needn't|must|1|由“上面有玛丽的名字”可知不可能是汤姆的，用 can't。
+英语|—Must I finish the work now? —No, you ___. You can do it after lunch.|mustn't|needn't|can't|shouldn't|1|must 引导的一般疑问句否定回答用 needn't，表示不必。
+英语|You ___ talk loudly in the library.|may|could|needn't|mustn't|3|表示禁止在图书馆大声说话，用 mustn't。
+英语|—Can you help me carry the box? —___.|Yes, I do|No, I don't|Yes, I am|Yes, I can|3|Can you...? 的答语用 can 回答。
+英语|It's raining hard. You ___ take an umbrella with you.|had better not to|had better|would like|are used to|1|表示最好做某事用 had better do，后接动词原形。
+英语|The boy ___ be very naughty, but now he is a good student.|was used to|uses to|used to|is used to|2|used to do 表示过去常常做某事，与 now 形成对比。
+英语|My father ___ get up early every morning when he worked in the factory.|used|was used to|used to|is used to|2|when he worked 表示过去，used to do 表示过去的习惯。
+英语|You ___ have told her the truth. Now she knows nothing about it.|must|need|would|should|3|should have done 表示本该做却没做，符合“她现在一无所知”的语境。
+英语|He ___ have finished the work, for the light in his office is still on.|can't|needn't|shouldn't|mustn't|0|根据灯还亮着可知他不可能已完成工作，用 can't have done。
+英语|—Would you like some tea? —___. I've just had some.|Yes, please|No, thanks|Yes, I would|No, I wouldn't|1|已经喝过茶，应礼貌拒绝，用 No, thanks。
+英语|You ___ to finish it today. There is no hurry.|needn't|don't need|mustn't|shouldn't|1|need 作实义动词时用 don't need to do，needn't 后不能接 to。
+英语|—May I take this seat? —___. It's free.|Yes, you may|No, you may not|Yes, you do|No, you don't|0|May I...? 的肯定答语用 Yes, you may。
+英语|—Could you please open the window? —___.|You're welcome|Thank you|Never mind|Sure|3|对 Could you please...? 的请求表示同意，用 Sure。
+英语|You ___ be joking! That can't be true.|must|can|need|should|0|表示强烈的肯定推测，用 must be joking。
+英语|He ___ be at home now, for he has just left for Beijing.|may|can't|mustn't|needn't|1|由“刚出发去北京”可知他现在不可能在家，用 can't。
+英语|The sign says "No Parking". You ___ park your car here.|can|needn't|mustn't|may|2|No Parking 表示禁止停车，用 mustn't。
+英语|___ I have a look at your new phone?|May|Must|Need|Should|0|征求许可用 May I...?。
+英语|We ___ respect our teachers and parents.|ought to|need|mustn't|can't|0|表示道义上的“应该”用 ought to，后接动词原形。
+英语|You'd better ___ late for school again.|not to be|don't be|not being|not be|3|had better 的否定形式是 had better not do。
+英语|—Must we clean the classroom now? —No, you ___. You can do it after school.|shouldn't|mustn't|needn't|can't|2|must 引导的一般疑问句否定回答用 needn't。
+英语|He ___ play chess well when he was ten.|can|could|may|must|1|when he was ten 表示过去的能力，用 could。
+英语|—Would you mind opening the door? —___.|No, I would|Yes, I mind|Of course not|Yes, please|2|Would you mind...? 表示不介意时用 Of course not。
+英语|You ___ have seen him yesterday, because he was in Beijing then.|can't|needn't|shouldn't|mustn't|0|由“他当时在北京”可知你不可能见过他，用 can't have done。
+英语|It's already ten o'clock. The children ___ be in bed. They have school tomorrow.|needn't|would|should|can't|2|十点已到且明天要上学，孩子应该睡觉了，用 should。
+英语|I hope ___ you again soon.|see|to see|seeing|saw|1|hope 后接动词不定式作宾语，即 hope to do。
+英语|She enjoys ___ to music after school.|listen|to listen|listening|listened|2|enjoy 后接动名词作宾语，即 enjoy doing。
+英语|Would you like ___ with us this weekend?|to go|going|went|go|0|would like 后接动词不定式，即 would like to do。
+英语|The teacher asked us ___ the text aloud.|read|to read|reading|reads|1|ask sb to do sth 表示“要求某人做某事”。
+英语|My mother made me ___ my room before lunch.|cleaning|cleaned|clean|to clean|2|make sb do sth 中不定式省略 to。
+英语|I'm looking forward to ___ you soon.|see|seeing|saw|seen|1|look forward to 中 to 是介词，后接动名词。
+英语|It's important for students ___ good study habits.|develop|to develop|developing|developed|1|It is important for sb to do sth 是固定句型。
+英语|The boy is old enough ___ himself.|dressed|dress|to dress|dressing|2|形容词 + enough to do 表示“足够……做某事”。
+英语|He kept ___ the same question again and again.|ask|to ask|asking|asked|2|keep doing sth 表示“反复做某事”。
+英语|___ more exercise is good for your health.|Takes|Taking|Took|Take|1|动名词作主语，表示一种习惯性行为。
+英语|The film is so interesting that I don't want ___.|to leave|leaving|left|leave|0|want 后接动词不定式作宾语，即 want to do。
+英语|I saw him ___ across the street just now.|walks|walk|to walk|walked|1|see sb do sth 表示看到某人做某事的全过程，不定式省略 to。
+英语|We heard her ___ an English song in the next room.|sings|sing|to sing|sang|1|hear sb do sth 中不定式省略 to。
+英语|The dirty clothes need ___ this afternoon.|washing|to wash|washed|wash|0|need doing 表示被动含义，即“需要被洗”。
+英语|He hurried to the station, ___ to catch the last train.|hoping|hoped|to hope|hope|0|现在分词作伴随状语，表示当时怀着的希望。
+英语|___ from the top of the hill, the city looks beautiful.|Seen|To see|See|Seeing|0|city 与 see 是被动关系，用过去分词作状语。
+英语|The problem is difficult ___.|to solve|solving|solved|solve|0|形容词 + to do 结构中，不定式表示方面或结果。
+英语|She was the first ___ the good news.|hearing|heard|hear|to hear|3|序数词后常接动词不定式作定语。
+英语|Instead of ___ TV, he went over his lessons.|watching|watched|watch|to watch|0|instead of 中 of 是介词，后接动名词。
+英语|He decided ___ up smoking for the sake of his health.|gave|give|to give|giving|2|decide 后接动词不定式作宾语，即 decide to do。
+英语|The man ___ is talking to our teacher is my father.|which|who|whom|whose|1|先行词 man 指人且在从句中作主语，用 who。
+英语|This is the house ___ we lived in last year.|whose|who|where|which|3|先行词 house 指物，从句中 in 后缺宾语，用 which。
+英语|I still remember the day ___ we first met.|where|who|which|when|3|先行词 day 表示时间，从句中作时间状语，用 when。
+英语|The book ___ cover is red belongs to Mary.|whom|which|who|whose|3|cover 与 book 是所属关系，用 whose 作定语。
+英语|This is the school ___ I studied ten years ago.|which|that|where|who|2|先行词 school 表示地点，从句中作地点状语，用 where。
+英语|This is the reason ___ he was late for the meeting.|why|because|what|which|0|先行词 reason 表示原因，从句中作原因状语，用 why。
+英语|The hotel ___ we stayed last summer was very clean.|who|which|that|where|3|先行词 hotel 表示地点，从句中作地点状语，用 where。
+英语|Do you know the woman ___ is standing under the tree?|which|whose|whom|who|3|先行词 woman 指人且在从句中作主语，用 who。
+英语|The little girl ___ parents died in the accident needs our help.|whom|which|whose|who|2|parents 与 girl 是所属关系，用 whose 作定语。
+英语|The city ___ I visited last year is famous for its gardens.|whose|who|where|which|3|先行词 city 指物，从句中 visited 缺宾语，用 which。
+英语|I have a friend ___ father is a famous writer.|who|whose|which|whom|1|father 与 friend 是所属关系，用 whose 作定语。
+英语|This is the factory ___ my father works.|that|where|who|which|1|先行词 factory 表示地点，从句中作地点状语，用 where。
+英语|Could you tell me ___?|where the post office was|where was the post office|where is the post office|where the post office is|3|宾语从句用陈述语序，且邮局现在的位置用一般现在时。
+英语|I don't know ___ he will come tomorrow.|what|which|whose|whether|3|从句意思完整，表示“是否”用 whether。
+英语|She asked me ___ I had finished my homework.|which|that|if|what|2|asked 后引导宾语从句表示“是否”用 if。
+英语|Do you know ___?|what does he want|what he wants|what he want|what do he want|1|宾语从句用陈述语序，主语 he 为第三人称单数，用 wants。
+英语|The teacher told us ___ the earth moves around the sun.|if|whether|what|that|3|从句是陈述事实，用 that 引导宾语从句。
+英语|I wonder ___ we should start the meeting.|when|what|which|whose|0|从句成分完整，表示时间用 when。
+英语|I want to know ___.|how old he was|how old is he|how old he is|how old was he|2|宾语从句用陈述语序，主句为现在时，从句用一般现在时。
+英语|He asked me ___ I could help him.|that|if|what|which|1|ask 后表示“是否”用 if 引导宾语从句。
+英语|I don't know ___ to deal with the problem.|which|who|what|how|3|deal with 后已有宾语 the problem，表示方式用 how。
+英语|Can you tell me why he ___ late yesterday?|are|was|is|were|1|yesterday 表示过去，主语 he 为单数，用 was。
+英语|___ it was raining heavily, they went on working.|If|So|Although|Because|2|前后为让步关系，用 Although 引导让步状语从句。
+英语|We won't start the meeting ___ everyone arrives.|because|although|so|until|3|not...until 表示“直到……才”。
+英语|___ you work harder, you will fail the exam.|If|Unless|Because|Although|1|unless 表示“除非”，相当于 if...not。
+英语|He was so tired ___ he fell asleep at once.|that|because|although|if|0|so...that 表示“如此……以至于”。
+英语|___ I got home, my mother was cooking.|When|Since|Until|While|0|when 引导时间状语从句，表示“当我到家时”。
+英语|She has lived here ___ she came to this city.|until|when|since|before|2|since 引导时间状语从句，主句用现在完成时。
+英语|We will go hiking ___ it is fine tomorrow. We are not sure about the weather yet.|because|if|unless|though|1|表示“如果”用 if 引导条件状语从句。
+英语|___ he is young, he knows a lot about science.|Although|Because|So|If|0|前后为让步关系，用 Although 引导让步状语从句。
+英语|I'll wait here ___ you come back.|until|because|although|so|0|until 引导时间状语从句，表示“直到……为止”。
+英语|He ran fast ___ he could catch the bus.|because|although|unless|so that|3|so that 引导目的状语从句，表示“以便”。
+英语|___ you don't hurry, you will miss the train.|Although|Because|If|Unless|2|if 引导条件状语从句，表示“如果”。
+英语|The teacher spoke slowly ___ all the students could understand her.|so that|because|though|if|0|so that 引导目的状语从句，表示“以便”。
+英语|If I ___ you, I would accept the invitation.|am|was|were|be|2|与现在事实相反的虚拟条件句，if 从句中 be 动词用 were。
+英语|If it ___ tomorrow, we would go on a picnic.|didn't rain|won't rain|wouldn't rain|doesn't rain|0|与将来事实相反的虚拟条件句，if 从句用一般过去时。
+英语|I wish I ___ more time to practice English.|will have|am having|have|had|3|wish 后从句表示与现在事实相反的愿望，用一般过去时。
+英语|If he had left earlier, he ___ the train.|catches|caught|would catch|would have caught|3|与过去事实相反的虚拟条件句，主句用 would have done。
+英语|If I had known your address, I ___ you last week.|would have visited|visited|will visit|would visit|0|与过去事实相反的虚拟条件句，主句用 would have done。
+英语|I wish I ___ his advice yesterday.|took|had taken|would take|take|1|wish 后从句表示与过去事实相反的愿望，用过去完成时。
+英语|Neither of the two answers ___ correct.|be|are|is|were|2|neither of 作主语时谓语通常用单数，故用 is。
+英语|The number of students in our school ___ about 1,500.|are|is|were|have|1|the number of 表示“……的数量”，谓语用单数。
+英语|A number of books ___ been donated to the library.|has|have|is|was|1|a number of 表示“许多”，谓语用复数，故用 have。
+英语|Either you or he ___ going to attend the meeting.|am|be|are|is|3|either...or 连接主语时遵循就近原则，靠近的 he 用 is。
+英语|Not only the students but also the teacher ___ interested in the game.|is|have|are|were|0|not only...but also 连接主语时遵循就近原则，靠近的 teacher 用 is。
+英语|The teacher with his students ___ visiting the museum now.|is|are|were|have|0|with 短语作后置定语，主语仍是 the teacher，谓语用单数。
+英语|Everyone in our class ___ to the museum, and now we are back.|has been|have been|has gone|have gone|0|everyone 作主语时谓语用单数，has been to 表示去过已回。
+英语|Ten years ___ a long time to wait.|are|is|were|have been|1|表示时间、距离等的复数名词作整体看待时，谓语用单数。
+英语|We should be strict ___ ourselves in our studies.|in|at|for|with|3|be strict with sb 表示“对某人严格”。
+英语|The girl is good ___ playing the piano.|in|for|with|at|3|be good at doing sth 表示“擅长做某事”。
+英语|I'm looking forward ___ hearing from you.|to|for|at|with|0|look forward to 是固定搭配，to 为介词。
+英语|He is interested ___ science and technology.|for|in|on|at|1|be interested in 表示“对……感兴趣”。
+英语|He spent two hours ___ his homework last night.|for|on|in|at|1|spend time on sth 表示“在某事上花费时间”。
+英语|Don't laugh ___ others when they make mistakes.|at|to|with|for|0|laugh at sb 表示“嘲笑某人”。
+英语|Our teacher is patient ___ us.|to|for|at|with|3|be patient with sb 表示“对某人有耐心”。
+英语|The train arrived ___ Beijing at seven.|at|to|on|in|3|arrive in 后接大地点，arrive at 后接小地点。
+英语|We should take advantage ___ this opportunity.|at|for|of|in|2|take advantage of 是固定搭配，意为“利用”。
+英语|This is not my pen. ___ is in my bag.|Myself|My|Mine|Me|2|此处需要名词性物主代词作主语，用 Mine。
+英语|The boy hurt ___ when he fell off the bike.|he|him|his|himself|3|hurt oneself 表示“伤到自己”，用反身代词 himself。
+英语|___ of the two girls is good at singing.|All|Every|Both|Neither|3|两者中“没有一个”用 Neither，谓语用单数。
+英语|—Which of the two books do you want? —___ is OK. I just need one.|Both|Either|All|None|1|两者中任选一个用 Either，谓语用单数。
+英语|The weather in Beijing is colder than ___ in Guangzhou.|this|one|it|that|3|比较的是天气，用 that 替代前面提到的不可数名词 weather。
+英语|I have two sisters. One is a nurse, and ___ is a teacher.|others|another|other|the other|3|两者中的另一个用 the other。
+英语|We enjoyed ___ at the party last night.|our|ourselves|ours|us|1|enjoy oneself 表示“玩得开心”，用反身代词 ourselves。
+英语|This book is ___ than that one.|the most interesting|interesting|more interesting|most interesting|2|than 提示比较级，interesting 的比较级是 more interesting。
+英语|Tom is ___ student in our class.|taller|tallest|the tallest|tall|2|in our class 表示范围，三者以上比较用最高级，且最高级前加 the。
+英语|The weather today is even ___ than yesterday.|worst|the worst|bad|worse|3|than 提示比较级，bad 的比较级是 worse。
+英语|My schoolbag is ___ as yours.|heavier|the heaviest|so heavy|as heavy|3|as...as 表示“和……一样”，中间用形容词原级。
+英语|The more you practice, ___ you will be.|the best|best|the better|better|2|the more...the better 表示“越……越……”。
+英语|This is ___ film I have ever seen.|a good|a better|the best|best|2|I have ever seen 表示范围，用最高级且前加 the。
+英语|Her English is much ___ than before.|better|best|good|well|0|than 提示比较级，good 的比较级是 better。
+英语|You can go by bus ___ by subway. Either way is fine.|so|and|but|or|3|表示两者选其一用 or。
+英语|He was tired, ___ he kept on working.|or|so|but|because|2|前后为转折关系，用 but。
+英语|It was raining, ___ we stayed at home.|or|though|so|but|2|前后为因果关系，用 so。
+英语|___ he is poor, he is honest.|If|Although|Because|So|1|前后为让步关系，用 Although。
+英语|Hurry up, ___ you will be late.|but|so|and|or|3|“祈使句 + or + 陈述句”表示“否则”。
+英语|She is not only a writer ___ also a teacher.|so|and|but|or|2|not only...but also 是固定搭配。
+英语|The doctor advised him to give up ___ because it is bad for his health.|smoking|to smoke|smoked|smoke|0|give up 后接动名词作宾语，即 give up doing。
+英语|We must ___ the environment instead of polluting it.|protect|borrow|destroy|waste|0|由 instead of polluting 可知要“保护”环境。
+英语|He is very ___. He always helps others when they are in trouble.|helpful|lazy|selfish|honest|0|由“总是帮助他人”可知他很乐于助人。
+英语|The box is too heavy for me to ___.|answer|choose|carry|accept|2|too heavy to carry 表示“太重而搬不动”。
+英语|She ___ her keys everywhere, but she couldn't find them.|looked for|found|discovered|looked after|0|由 couldn't find 可知她到处“寻找”钥匙。
+英语|—What's the weather like today? —It's ___.|January|winter|sunny|Sunday|2|询问天气，答语应用表示天气状况的 sunny。
+英语|The price of the house is too ___. I can't afford it.|high|expensive|cheap|low|0|表示价格高用 high，expensive 通常修饰物品本身。
+英语|Could you ___ me your bike? Mine is broken.|borrow|keep|return|lend|3|lend sb sth 表示“把某物借给某人”。
+英语|—Thank you for your help. —___.|Good idea|You're welcome|That's right|Never mind|1|对感谢的应答用 You're welcome。
+英语|—I'm sorry I'm late. —___.|You're welcome|Thank you|Goodbye|That's all right|3|对道歉的应答用 That's all right。
+英语|—Would you like to go shopping with me? —___. I have to finish my homework.|I'd love to, but I can't|Yes, I'd love to|No, I don't|Yes, I am|0|婉拒邀请用 I'd love to, but I can't。
+英语|—How do you like our city? —___.|You're welcome|It's wonderful|Very well|That's right|1|How do you like...? 询问看法，答语用 It's wonderful。
+英语|—Could I use your phone? —___.|You're welcome|It doesn't matter|Good idea|Sure, here you are|3|答应请求并递上物品用 Sure, here you are。
+英语|—What a nice day! How about going for a walk? —___.|Good idea|That's right|Never mind|You're welcome|0|对建议表示赞同用 Good idea。
